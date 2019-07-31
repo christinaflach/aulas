@@ -1,5 +1,5 @@
-# MATA37 - Introdução a Linguagens de Programação
+# MATA37 - Introdução à Lógica de Programação
 
-Semestre letivo:2019.2
+Semestre letivo: 2019.2
 
 
