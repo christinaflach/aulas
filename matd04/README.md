@@ -24,7 +24,7 @@ Ordenação externa.
 
 1. [Introdução à análise de algoritmos.](matd04/tutorial/analisedealgoritmos.md) 
 
-2. [Tipos abstratos de dados.](tutorial/tiposabstratosdedados.md) 
+2. [Tipos abstratos de dados.](matd04/tutorial/tiposabstratosdedados.md) 
 
 3. Estruturas de dados fundamentais
    - Listas
