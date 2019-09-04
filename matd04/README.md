@@ -27,16 +27,16 @@ Ordenação externa.
 2. Tipos Abstratos de Dados. 
 
 3. Estruturas de dados fundamentais
-   3.1 Listas
-   3.2 Filas
-   3.3 Pilhas
-   3.4 Árvores
-   3.5 Heaps
+   - Listas
+   - Filas
+   - Pilhas
+   - Árvores
+   - Heaps
 
 4. Algoritmos de busca em memória principal. 
-   4.1 Busca sequencial
-   4.2 Busca binária
-   4.3 Busca em árvore binária.
+   - Busca sequencial
+   - Busca binária
+   - Busca em árvore binária.
 
 ### Parte 2
 
