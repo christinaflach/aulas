@@ -4,6 +4,7 @@
 
 - Semestre letivo: 2019.2
 - Turma: T01 P01
+- Prof. Christina von Flach G. Chavez (flach@ufba.br)
 
 ## Ementa
 
@@ -17,6 +18,10 @@ Arquivos com organização direta (funções de hashing, métodos de resolução
 Arquivos com organização em árvore (árvores-B e suas variações). 
 Ordenação externa.
 
+## Avaliações
+
++ Duas provas (peso 6) 
++ Trabalho (peso 4)
 
 ## Plano de aulas
 
@@ -38,23 +43,21 @@ Ordenação externa.
    - Busca binária
    - Busca em árvore binária.
 
-### Parte 2
+### Parte 2 
 
-5. Dispositivos de armazenamento secundário. 
-
-6. Arquivos com organização sequencial 
+5. Arquivos com organização sequencial 
    - Busca sequencial
    - Busca por interpolação
    - Busca binária. 
 
-7. Arquivos com organização direta 
+6. Arquivos com organização direta 
    - Funções de hashing
    - Métodos de resolução de colisão.
  
-8. Arquivos com organização em árvore 
+7. Arquivos com organização em árvore 
    - Árvores-B e suas variações. 
 
-9. Ordenação externa.
+8. Ordenação externa.
 
 
 ## Referências
