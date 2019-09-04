@@ -22,7 +22,7 @@ Ordenação externa.
 
 ### Parte 1 
 
-1. [Introdução à análise de algoritmos.](tutorial/analisedealgoritmos.md) 
+1. [Introdução à análise de algoritmos.](matd04/tutorial/analisedealgoritmos.md) 
 
 2. [Tipos abstratos de dados.](tutorial/tiposabstratosdedados.md) 
 
