@@ -21,7 +21,8 @@ Ordenação externa.
 ## Avaliações
 
 + Duas provas (peso 6) 
-+ Trabalho (peso 4)
++ Trabalho (peso 2)
++ Exercícios (peso 2)
 
 ## Plano de aulas
 
@@ -62,7 +63,9 @@ Ordenação externa.
 
 ## Referências
 - Ziviani, N. Projeto de Algoritmos com implementações em Pascal e C. Ed. Thomson, 2 ed. rev e ampl. 2005.
+- Sedgewick, R. Algorithms. Ed. Addison-Wesley, 2 ed. 1988. [Ver outras edições](https://algs4.cs.princeton.edu/home/).
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
 
 
 
