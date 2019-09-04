@@ -31,23 +31,29 @@ Ordenação externa.
    - Filas
    - Pilhas
    - Árvores
-   - Heaps
+   - Heaps.
 
-4. Algoritmos de busca em memória principal. 
+4. Algoritmos de busca em memória principal
    - Busca sequencial
    - Busca binária
    - Busca em árvore binária.
 
 ### Parte 2
 
-Dispositivos de armazenamento secundário. 
-Arquivos com organização sequencial 
-(busca sequencial, busca por interpolação, busca binária). 
-Arquivos com organização direta 
-(funções de hashing, métodos de resolução de colisão). 
-Arquivos com organização em árvore 
+5. Dispositivos de armazenamento secundário. 
+
+6. Arquivos com organização sequencial 
+   - Busca sequencial
+   - Busca por interpolação
+   - Busca binária. 
+
+7. Arquivos com organização direta 
+   - Funções de hashing, métodos de resolução de colisão.
+ 
+8. Arquivos com organização em árvore 
 (árvores-B e suas variações). 
-Ordenação externa.
+
+9. Ordenação externa.
 
 ## Referências
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
