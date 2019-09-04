@@ -9,6 +9,7 @@ Um _tipo de dados estruturado_ define uma coleção de valores simples, ou um ag
 Um _tipo abstrato de dados_ (TAD) pode ser visto como um modelo matemático acompanhado pelas operações definidas sobre ele. Por exemplo, o TAD integer é formado pelo conjunto dos inteiros e suas operações de adição, subtração e multiplicação. Em geral, TAD é usado para encapsular um tipo de dados, definindo o tipo propriamente dito e todas as operações definidas sobre ele.
 
 Exemplo:
+
 	def List
 		
 		empty (l);
