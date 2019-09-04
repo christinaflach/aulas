@@ -5,7 +5,7 @@
 
 ## Turmas
 - [MATA37 T04 2019.2](mata37/README.md)
-- MATD04 T01 2019.2
+- [MATD04 T01 2019.2](matd04/README.md)
 
 
 ## Referências
