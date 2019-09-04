@@ -24,16 +24,16 @@ O melhor caso ocorre quando a chave é encontrada no primeiro registro do arquiv
 
 - Questão: Qual o custo de MaxMin? É possível melhorar?
 
-    procedure MaxMin (var A: Vetor; var Max, Min:L integer);
-    var i: integer;
-    begin 
-      Max := A[1]; Min := A[1];
-      for i:= 2 to n do 
-      begin
-        if A[i] > Max then Max := A[i];
-        if A[i] < Min then Min := A[i];
-      end;
-    end;
+        procedure MaxMin (var A: Vetor; var Max, Min:L integer);
+        var i: integer;
+        begin 
+            Max := A[1]; Min := A[1];
+            for i:= 2 to n do 
+            begin
+              if A[i] > Max then Max := A[i];
+              if A[i] < Min then Min := A[i];
+            end;
+        end;
     
 ## Comportamento assintótico de funções
 
@@ -46,7 +46,15 @@ Se _f_ é uma função de complexidade para um algoritmo F, então _O(f) é cons
 
 _O(1)_
 
+_O(logn)_
+
 _O(n)_
+
+_O(n logn)_
+
+_O(n 2)_
+
+_O(2 n)_
 
 _O(n!)_
 
