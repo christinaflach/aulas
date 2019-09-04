@@ -24,7 +24,7 @@ Ordenação externa.
 
 1. Introdução à análise de algoritmos. 
 
-2. Tipos Abstratos de Dados. 
+2. Tipos abstratos de dados. 
 
 3. Estruturas de dados fundamentais
    - Listas
@@ -48,14 +48,17 @@ Ordenação externa.
    - Busca binária. 
 
 7. Arquivos com organização direta 
-   - Funções de hashing, métodos de resolução de colisão.
+   - Funções de hashing
+   - Métodos de resolução de colisão.
  
 8. Arquivos com organização em árvore 
-(árvores-B e suas variações). 
+   - Árvores-B e suas variações. 
 
 9. Ordenação externa.
 
+
 ## Referências
+- Ziviani, N. Projeto de Algoritmos com implementações em Pascal e C. Ed. Thomson, 2 ed. rev e ampl. 2005.
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 
