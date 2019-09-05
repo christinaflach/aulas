@@ -19,10 +19,10 @@
 ## Links importantes
 
 + Editores de C++ online:
-   - repl.it: C++ online
+   - [repl.it: C++ online](https://repl.it/languages/cpp)
 
 + Apostilas
-   - [Introdução à Ciência da Computação em C] (https://www.ime.usp.br/~hitoshi/introducao/)
+   - [Introdução à Ciência da Computação em C](https://www.ime.usp.br/~hitoshi/introducao/)
 
 ## Referências
 
