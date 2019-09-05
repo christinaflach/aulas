@@ -1,3 +1,5 @@
+Textos extraídos e/ou adaptados a partir das referências bibliográficas (1) e (2).
+
 # Análise de algoritmos
 
 O custo de utilização de um algoritmo pode ser medido de diversas maneiras. Utilizaremos um modelo abstrato para ignorar aspectos relativos a sistemas de computação ou hardware.
