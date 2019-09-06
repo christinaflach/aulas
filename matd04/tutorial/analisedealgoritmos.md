@@ -73,7 +73,7 @@ Qual o _pior caso_? Qual o _caso médio_?
     
 ## Comportamento assintótico de funções
 
-O parâmetro _n_ fornece uma medida da dificuldade para se resolver um problema, no sentido de que o tempo necessário para executar um programa que resolve o problema cresce quando _n_ cresce. Em geral, os algoritmos estudados aqui têm tempo de execução proporcional a uma das funções seguintes:
+O parâmetro _N_ fornece uma medida da dificuldade para se resolver um problema, no sentido de que o tempo necessário para executar um programa que resolve o problema cresce quando _N_ cresce. Em geral, os algoritmos estudados aqui têm tempo de execução proporcional a uma das funções seguintes:
 
 + 1. A maioria das instruções são executadas uma vez ou poucas vezes. Se todas as instruções de um programa tiverem essa propriedade, diz-se que seu tempo de execução é _constante_.
 
@@ -83,11 +83,10 @@ O parâmetro _n_ fornece uma medida da dificuldade para se resolver um problema,
 
 + N logN. Tal tempo de execução é observado em algoritmos que buscam resolver um problema grande dividindo-o em subproblemas menores, resolvendo cada um deles e combinando suas soluções.
 
-+ N 2. O tempo de execução de um programa é _quadrático_, por exemplo, laços aninhados que processam todos os pares de dois conjuntos.
++ N<sup>2</sup>. O tempo de execução de um programa é _quadrático_, por exemplo, laços aninhados que processam todos os pares de dois conjuntos.
 
-+ 2 N.  O tempo de execução de um programa é _exponencial_.
++ 2<sup>N</sup>.  O tempo de execução de um programa é _exponencial_.
 
-+ N!.
 
 ## Classes de comportamento assintótico
 
@@ -104,9 +103,9 @@ _O(n logn)_
 
 _O(n<sup>2</sup>)_
 
-_O(n 3)_
+_O(n<sup>3</sup>)_
 
-_O(2 n)_
+_O(2<sup>n</sup>)_
 
 
 
