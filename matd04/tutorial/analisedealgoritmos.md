@@ -110,4 +110,4 @@ _O(n!)_
 
 
 
-
+![big O](matd04/tutorial/bigO.png)
