@@ -10,11 +10,31 @@
 
 ## Avaliações
 
-+ Duas provas práticas (peso 5) 
-+ Trabalho prático (peso 2)
-+ Exercícios individuais (peso 3)
++ Três provas (pesos 2, 2 e 3, respectivamente)
++ Listas de exercícios individuais (peso 3)
 
 ## Plano de aulas
++ [Motivação](https://turtleacademy.com)
++ [Conceitos básicos](https://rodrigorgs.github.io/aulas/mata37/algoritmo#1)
++ Entrada e saída
++ Expressões aritméticas
++ Repetição
+
+(Prova 01: 26/9)
+
++ Desvios condicionais
++ Vetores
++ Strings
+
+(Prova 02: 31/10)
+
++ Matrizes
++ Ordenação
++ Busca Binária
++ Recursão
+
+(Prova 03: 28/11)
+
 
 ## Links importantes
 
