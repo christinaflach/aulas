@@ -1,1 +1,26 @@
+# Welcome to Jekyll!
+
+
+# Site settings
+title: Disciplinas (UFBA)
+email: flach@ufba.br
+
+github_username:  christinaflach
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-dinky
+
+
+# Reveal.js
+
+reveal_path: lib/reveal.js/
+reveal_theme_path: lib/reveal.js/css/theme/
+reveal_theme: white.css
+reveal_transition: default
+# Embed Server-side speaker notes?
+reveal_notes_server: false
+reveal_options:
+reveal_dependencies:
+
+
