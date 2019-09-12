@@ -18,16 +18,14 @@ Arquivos com organização direta (funções de hashing, métodos de resolução
 Arquivos com organização em árvore (árvores-B e suas variações). 
 Ordenação externa.
 
-## Avaliações
-
-+ Duas provas (peso 6) 
-+ Trabalho (peso 2)
-+ Exercícios (peso 2)
-
 ## Plano de aulas
 
-- 11/09: Revisão de C. Aula prática: github, exercício de revisão sobre I/O padrão, ordenação e busca em vetor (em lab). *Leitura e exercícios recomendados*: Partes 16 a 19 da apostila da USP.
-- 06/9: Introdução: Análise de algoritmos. *Leitura e exercícios recomendados*: capítulo 1 da referência (1). 
+- 11/9: Revisão de C. Aula prática: github, exercício de revisão sobre I/O padrão, ordenação e busca em vetor (em lab). 
+   + *Leitura e exercícios recomendados*: Partes 16 a 19 da apostila da USP.
+   
+- 06/9: Introdução: Análise de algoritmos. 
+   + *Leitura e exercícios recomendados*: capítulo 1 da referência (1). 
+   
 - 04/9: Primeira aula. Apresentação da disciplina.
 
 ## Tópicos
@@ -66,15 +64,31 @@ Ordenação externa.
 
 8. Ordenação externa.
 
+## Avaliações
+
++ Duas provas (peso 6) 
++ Trabalho (peso 2)
++ Exercícios (peso 2)
 
 ## Links úteis 
 
-- [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
-+ Material sobre C
-   - [Introdução à Ciência da Computação em C](https://www.ime.usp.br/~hitoshi/introducao/)
-   - [Material de ILP do Prof. Rodrigo Rocha](https://rodrigorgs.github.io/aulas/mata37/), incluindo [ordenação](https://rodrigorgs.github.io/aulas/mata37/ordenacao).
+### On C 
+- [Apostila da USP: Introdução à Ciência da Computação em C](https://www.ime.usp.br/~hitoshi/introducao/)
+- [Material de ILP do Prof. Rodrigo Rocha](https://rodrigorgs.github.io/aulas/mata37/), incluindo [ordenação](https://rodrigorgs.github.io/aulas/mata37/ordenacao).
    
-## Referências
+### On markdown
+
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
++ [The Ultimate Guide to Markdown](https://blog.ghost.org/markdown/)
++ [Markdown and including multiple files](https://stackoverflow.com/questions/4779582/markdown-and-including-multiple-files)
+
+### On github 
+
++ [Git Basics - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
++ [Try Git](https://try.github.io/levels/1/challenges/1)
+   
+## Referências Bibliográficas
+
 - (1) Ziviani, N. Projeto de Algoritmos com implementações em Pascal e C. Ed. Thomson, 2 ed. rev e ampl. 2005.
 - (2) Sedgewick, R. Algorithms. Ed. Addison-Wesley, 2 ed. 1988. [Ver outras edições](https://algs4.cs.princeton.edu/home/).
 
