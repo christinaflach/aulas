@@ -1,8 +1,3 @@
----
-layout: page
-title: MATA37 - ILP - 2019.2
----
-
 # [MATA37](https://alunoweb.ufba.br/SiacWWW/ExibirEmentaPublico.do?cdDisciplina=MATA37&nuPerInicial=20071) - Introdução à Lógica de Programação
 
 ## Informações básicas
@@ -53,13 +48,4 @@ title: MATA37 - ILP - 2019.2
 
 ## Referências
 
-<script type="text/javascript">
-function desabilitaLinksComecadosPor(prefixo) {
-  var links = $('a').filter(function (idx) { return $(this).attr('href').startsWith(prefixo); });
-  links.contents().unwrap();
-}
-$(document).ready(function () {
-  desabilitaLinksComecadosPor('#!');
-});
-</script>
 
