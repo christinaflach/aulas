@@ -13,7 +13,19 @@ Créditos:
 	left 90
 	right 45
 	label "turtle
-
+	seth 90
+	setxy 30 70
+	setwidth 5
+	pendown / penup
+	setcolor 8 fd 50
+	print "hello
+	make "y 5
+        make "x 9
+	print :y
+	print sum 2 :y
+	print sum 2 4
+	make "z difference :x :y
+i
 ---
 
 ## Sequência de comandos 
@@ -31,4 +43,24 @@ Créditos:
 
 ---
 
-## 
+## Comando definido pelo usuário
+
++ comando "dashline" definido pelo usuário para desenhar linha tracejada de tamanho 100
+
+	to dashline repeat 5 [setwidth 1 fd 10 setwidth 3 fd 10] end
+
++ comando "square" definido pelo usuário para desenhar quadrado com comando "dashline"
+
+	to square repeat 4 [rt 90 dashline] end
+
++ construção to _nome_ _comando(s)_ end
+
+ 
+---
+
+<!--  for [var_name var_initial_value var_last_value advance] [command sequence ] -->
+<!-- do.while[ COMMANDS ]condition -->
+<!-- make "name readword -->
+<!-- to rec :W :L repeat 2 [fd :W rt 90 fd :L rt 90] end -->
+
+
