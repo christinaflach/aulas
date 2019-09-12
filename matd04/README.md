@@ -30,6 +30,8 @@ Ordenação externa.
 
 ## Tópicos
 
+0. Revisão de C / C++
+
 ### Parte 1 
 
 1. [Introdução à análise de algoritmos.](tutorial/analisedealgoritmos.md) 
