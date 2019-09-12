@@ -15,7 +15,7 @@
 
 ## Plano de aulas
 + [Motivação](https://turtleacademy.com)
-+ [Conceitos básicos](algoritmo#1)
++ [Conceitos básicos](algoritmo.md)
 + Entrada e saída
 + Expressões aritméticas
 + Repetição
