@@ -1,7 +1,9 @@
+<!--
 ---
 layout: remark
 title: Algoritmo
 ---
+-->
 
 <div>
 # Créditos
