@@ -64,11 +64,10 @@ Créditos:
 	make "num 1
 	IF :num = 1 [print [Number is 1]] fd 50
 
-        make "num 2
-        IF :num = 1 [print [Number is 1]] fd 50
-
+	make "num 2
+	IF :num = 1 [print [Number is 1]] fd 50
+	
 	IFELSE :num = 1 [print [Number is 1]] [print [Number is not 1]]
-
 
 ---
 
