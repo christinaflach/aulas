@@ -20,7 +20,7 @@ title: MATA37 - ILP - 2019.2
 
 ## Plano de aulas
 + [Motivação](https://turtleacademy.com)
-+ [Conceitos básicos](algoritmo)
++ [Conceitos básicos](algoritmo.md)
 + Entrada e saída
 + Expressões aritméticas
 + Repetição
