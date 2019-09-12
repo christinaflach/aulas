@@ -15,7 +15,7 @@
 
 ## Plano de aulas
 + [Motivação](https://turtleacademy.com)
-+ [Conceitos básicos](https://rodrigorgs.github.io/aulas/mata37/algoritmo#1)
++ [Conceitos básicos](algoritmo#1)
 + Entrada e saída
 + Expressões aritméticas
 + Repetição
