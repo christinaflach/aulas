@@ -20,12 +20,12 @@ Créditos:
 	setcolor 8 fd 50
 	print "hello
 	make "y 5
-        make "x 9
+	make "x 9
 	print :y
 	print sum 2 :y
 	print sum 2 4
 	make "z difference :x :y
-i
+
 ---
 
 ## Sequência de comandos 
@@ -43,7 +43,7 @@ i
 
 ---
 
-## Comando definido pelo usuário
+## "Comando" definido pelo usuário
 
 + comando "dashline" definido pelo usuário para desenhar linha tracejada de tamanho 100
 
