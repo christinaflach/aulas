@@ -5,7 +5,6 @@ title: Algoritmo
 ---
 -->
 
-<div>
 # Créditos
 
 Adaptado a partir de:
@@ -39,9 +38,7 @@ Na computação, algoritmos transformam valores de entrada em valores de saída 
 
 <!--
 ---
-
 # Exemplo: cubo mágico
-
 - Entrada: cubo bagunçado
 - Saída: cubo arrumado
 - Instruções: <https://www.rubiks.com/solve-it/3x3/>
@@ -60,9 +57,7 @@ Você consegue identificar nos exemplos os seguintes elementos?
 
 <!--
 ---
-
 # Exemplo: Keep Talking and Nobody Explodes
-
 Jogo [Keep Talking and Nobody Explodes](http://jogabilida.de/bomb)
 -->
 
@@ -82,7 +77,6 @@ Ex.: R$ 3,30 = R$ 2 + R$ 1 + R$ 0,25 + R$ 0,05
 
 <!-- 
 # Exemplo: adivinhe o número
-
 -->
 
 # Exemplo: ordenação
@@ -151,7 +145,7 @@ Eu respondi: "Porque eles tinham ovos."
 
 # Pseudolinguagem
 
-Baseada na linguagem natural, porém mais bem definida
+Baseada na linguagem natural, porém mais bem definida.
 
 ```
 vá ate o mercado
@@ -241,5 +235,5 @@ Seu programa é executado por outro programa. Se você não seguir a linguagem c
 - No exemplo em C++, apague as linhas em branco
 - O que acontece em cada um dos casos?
 
-</div>
+
 
