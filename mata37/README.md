@@ -14,7 +14,7 @@
 + Listas de exercícios individuais (peso 3)
 
 ## Plano de aulas
-+ [Motivação](turtleacademy)
++ [Motivação](turtleacademy.md)
 + [Conceitos básicos](algoritmo.md)
 + Entrada e saída
 + Expressões aritméticas
