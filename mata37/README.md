@@ -44,9 +44,7 @@
 + Apostilas
    - [Introdução à Ciência da Computação em C](https://www.ime.usp.br/~hitoshi/introducao/)
 
-## Referências
-
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
-
+## Referências
 
