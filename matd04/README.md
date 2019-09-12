@@ -26,8 +26,8 @@ Ordenação externa.
 
 ## Plano de aulas
 
-- 11/09: Revisão de C. Aula prática: github, exercício de revisão sobre I/O padrão, ordenação e busca em vetor.
-- 06/9: Introdução: Análise de algoritmos. Leitura e exercícios recomendados: capítulo 1 da referência (1). 
+- 11/09: Revisão de C. Aula prática: github, exercício de revisão sobre I/O padrão, ordenação e busca em vetor (em lab). *Leitura e exercícios recomendados*: Partes 16 a 19 da apostila da USP.
+- 06/9: Introdução: Análise de algoritmos. *Leitura e exercícios recomendados*: capítulo 1 da referência (1). 
 - 04/9: Primeira aula. Apresentação da disciplina.
 
 ## Tópicos
