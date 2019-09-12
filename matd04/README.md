@@ -26,6 +26,12 @@ Ordenação externa.
 
 ## Plano de aulas
 
+- 11/09: Revisão de C. Aula prática: github, exercício de revisão sobre I/O padrão, ordenação e busca em vetor.
+- 06/9: Introdução: Análise de algoritmos. Leitura e exercícios recomendados: capítulo 1 da referência (1). 
+- 04/9: Primeira aula. Apresentação da disciplina.
+
+## Tópicos
+
 ### Parte 1 
 
 1. [Introdução à análise de algoritmos.](tutorial/analisedealgoritmos.md) 
@@ -61,10 +67,17 @@ Ordenação externa.
 8. Ordenação externa.
 
 
+## Links úteis 
+
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
++ Material sobre C
+   - [Introdução à Ciência da Computação em C](https://www.ime.usp.br/~hitoshi/introducao/)
+   - [Material de ILP do Prof. Rodrigo Rocha](https://rodrigorgs.github.io/aulas/mata37/), incluindo [ordenação](https://rodrigorgs.github.io/aulas/mata37/ordenacao).
+   
 ## Referências
 - (1) Ziviani, N. Projeto de Algoritmos com implementações em Pascal e C. Ed. Thomson, 2 ed. rev e ampl. 2005.
 - (2) Sedgewick, R. Algorithms. Ed. Addison-Wesley, 2 ed. 1988. [Ver outras edições](https://algs4.cs.princeton.edu/home/).
-- [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
 
 
 
