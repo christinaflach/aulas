@@ -1,3 +1,8 @@
+---
+layout: page
+title:  "Início"
+---
+
 # Aulas
 
 ## Informações básicas
