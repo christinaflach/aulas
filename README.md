@@ -1,6 +1,7 @@
 # Informações básicas
 
-Prof. [Christina von Flach Garcia Chavez](christinaflach.github.io/aulas)
+Prof. [Christina von Flach Garcia Chavez](http://wiki.dcc.ufba.br/DCC/ProfChristinaFlach)
+(flach at ufba dot br)
 
 # Turmas
 - [MATA37 T04 2019.2](mata37)
