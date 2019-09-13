@@ -20,17 +20,21 @@ Ordenação externa.
 
 # Plano de aulas
 
-- 11/9: Revisão de C. Aula prática: github, exercício de revisão sobre I/O padrão, ordenação e busca em vetor (em lab). 
+- 13/9: Revisão de [definição e uso de funções](https://www.ime.usp.br/~hitoshi/introducao/16-funcao02.pdf), [funções e ponteiros](https://www.ime.usp.br/~hitoshi/introducao/17-funcao03.pdf), [vetores](https://www.ime.usp.br/~hitoshi/introducao/18-vetor.pdf) e [vetores, ponteiros e funções](https://www.ime.usp.br/~hitoshi/introducao/19-vetor_ponteiro.pdf). 
    + *Leitura e exercícios recomendados*: Partes 16 a 19 da apostila da USP.
+
+- 11/9: Revisão da linguagem de programação C. Aula prática: github, exercício de revisão sobre E/S padrão, ordenação e busca em vetor (em lab). 
+   + *Leitura e exercícios recomendados*: partes 16 a 19 da apostila da USP.
    
-- 06/9: Introdução: Análise de algoritmos. 
+- 06/9: Introdução: Análise de algoritmos. Aula teórica.
    + *Leitura e exercícios recomendados*: capítulo 1 da referência (1). 
    
 - 04/9: Primeira aula. Apresentação da disciplina.
+   + *Leitura recomendada*: capítulo 1 da referência (1).
 
 # Tópicos
 
-Revisão de C / C++
+(Preâmbulo: Revisão de C / C++) 
 
 ## Parte 1 
 
