@@ -62,8 +62,15 @@ Créditos:
 	to square repeat 4 [rt 90 dashline] end
 
 
+---
 
- 
+## Exemplo
+
+
+	make "edges ( readword [please enter number of edges] )
+	repeat :edges [fd 100 rt 360/:edges]
+
+
 ---
 
 ## Condicional
