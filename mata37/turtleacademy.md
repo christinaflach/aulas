@@ -35,6 +35,7 @@ Créditos:
 ## Bloco de comandos
 
 	[rt 90 fd 50]
+
 ---
 
 ## Repetição
@@ -47,11 +48,15 @@ Créditos:
 
 + comando "dashline" definido pelo usuário para desenhar linha tracejada de tamanho 100
 
+
 	to dashline repeat 5 [setwidth 1 fd 10 setwidth 3 fd 10] end
+
 
 + comando "square" definido pelo usuário para desenhar quadrado com comando "dashline"
 
+
 	to square repeat 4 [rt 90 dashline] end
+
 
 + construção to _nome_ _comando(s)_ end
 
