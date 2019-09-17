@@ -46,6 +46,8 @@ Créditos:
 
 ## "Comando" definido pelo usuário
 
++ construção __to__ _nome_ _comando(s)_ __end__
+
 + comando "dashline" definido pelo usuário para desenhar linha tracejada de tamanho 100
 
 
@@ -58,7 +60,6 @@ Créditos:
 	to square repeat 4 [rt 90 dashline] end
 
 
-+ construção to _nome_ _comando(s)_ end
 
  
 ---
