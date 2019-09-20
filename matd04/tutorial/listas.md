@@ -1,5 +1,8 @@
 # Estruturas de Dados Fundamentais
 
+Fonte do material (além dos livros referenciados):
+   - [CS Library - Stanford, Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf)
+   - [First Simple Linked List in C, with 3 elements](https://www.geeksforgeeks.org/linked-list-set-1-introduction/).
 
 ## Listas lineares (_linked lists_)
 
@@ -13,6 +16,7 @@
    - No _array_, a organização sequencial é dada implicitamente pela posição do elemento no _array_.
    - Na _linked list_, há uma organização explícita em que cada elemento é parte de um "nó" que também contém um "link" para o próximo "nó".
 
+---
 
 ## Tipo Abstrato de Dados LISTA
 
@@ -27,6 +31,8 @@
    - Ordenar os itens da lista em ordem ascendente ou decrescente, de acordo com alguns de seus componentes
    - Pesquisa a ocorrência de um item com um valor específico em algum componente. 
 
+---
+
 ### Outro conjunto de operações
 
    - FLVazia(Lista). Faz a lista ficar vazia.
@@ -35,9 +41,16 @@
    - Vazia(Lista). Retorna _true_ se a lista for vazia; senão, retorna _false_.
    - Imprime(Lista). Imprime os itens da lista na ordem de ocorrência.
 
+---
+
 ## Implementação de LISTA
 
-### Com _pointer_, em C
+### Com _arrays_
+
+Ver capítulo 3, seção 3.1.1 do livro de Ziviani.
+
+
+### Com _pointers_, em C
 
 Fonte do material a seguir: https://www.geeksforgeeks.org/data-structures/linked-list/ 
 [First Simple Linked List in C, with 3 elements](https://www.geeksforgeeks.org/linked-list-set-1-introduction/).
@@ -139,5 +152,22 @@ int main()
 } 
 
 ```
+
+---
+
+## Implementação de Imprime(Lista) em C
+
+// This function prints contents of linked list starting from 
+// the given node 
+
+void printList(struct Node* n) 
+{ 
+    while (n != NULL) { 
+        printf(" %d ", n->data); 
+        n = n->next; 
+    } 
+} 
+
+---
 
 
