@@ -20,4 +20,4 @@ Formato de entrega para o item 6: Uma folha de papel com (a) programa, (b) saíd
 
    6 Escrever um programa em C++ (usando o ambiente repl.it) que implementa o problema apresentado a seguir (Leitura de dois valores inteiros e impressão em tela do resultado da soma). Dica: declare duas variáveis A e B e as utilize em seu programa:  `int A;  int B;`
 
-![Figura 1 - Problema](figs/ILP-ProblemaBasico01.png)
+![Figura 1 - Problema](mata37/figs/ILP-ProblemaBasico01.png)
