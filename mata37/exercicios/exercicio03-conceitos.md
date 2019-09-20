@@ -1,5 +1,4 @@
-# Exercício de revisão (individual)
-
+# Exercício 03 - revisão de conceitos (individual)
 
 Data de entrega: 24/9/2019
 
