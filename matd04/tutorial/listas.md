@@ -157,6 +157,7 @@ int main()
 
 ## Implementação de Imprime(Lista) em C
 
+```
 // This function prints contents of linked list starting from 
 // the given node 
 
@@ -167,6 +168,7 @@ void printList(struct Node* n)
         n = n->next; 
     } 
 } 
+```
 
 ---
 
