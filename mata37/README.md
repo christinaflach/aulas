@@ -23,7 +23,7 @@ Desenvolvimento de algoritmos. Refinamento sucessivo. Noções de especificaçã
 
 + [Motivação](turtleacademy.md)
 + [Conceitos básicos](algoritmo.md)
-+ Entrada e saída
++ [Entrada e saída](entradasaida.md)
 + Expressões aritméticas
 + Repetição
 
