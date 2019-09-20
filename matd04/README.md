@@ -20,6 +20,7 @@ Ordenação externa.
 
 # Plano de aulas
 
+- 18/9 e 20/9: 
 - 13/9: Revisão de [definição e uso de funções](https://www.ime.usp.br/~hitoshi/introducao/16-funcao02.pdf), [funções e ponteiros](https://www.ime.usp.br/~hitoshi/introducao/17-funcao03.pdf), [vetores](https://www.ime.usp.br/~hitoshi/introducao/18-vetor.pdf) e [vetores, ponteiros e funções](https://www.ime.usp.br/~hitoshi/introducao/19-vetor_ponteiro.pdf). 
    + *Leitura e exercícios recomendados*: Partes 16 a 19 da apostila da USP.
 
@@ -34,16 +35,18 @@ Ordenação externa.
 
 # Tópicos
 
-(Preâmbulo: Revisão de C / C++) 
+## Preâmbulo
+
++ Revisão de C / C++ (ver Links)
 
 ## Parte 1 
 
-1. [Introdução à análise de algoritmos.](tutorial/analisedealgoritmos.md) 
+1. [Introdução à análise de algoritmos](tutorial/analisedealgoritmos.md) 
 
-2. [Tipos abstratos de dados.](tutorial/tiposabstratosdedados.md) 
+2. [Tipos abstratos de dados](tutorial/tiposabstratosdedados.md) 
 
-3. Estruturas de dados fundamentais
-   - Listas
+3. [Estruturas de dados fundamentais](tutorial/estruturasfundamentais.md)
+   - [Listas lineares](tutorial/listas.md)
    - Filas
    - Pilhas
    - Árvores
