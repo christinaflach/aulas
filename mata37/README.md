@@ -15,14 +15,19 @@ Desenvolvimento de algoritmos. Refinamento sucessivo. Noções de especificaçã
 + Três provas (pesos 2, 2 e 3, respectivamente)
 + Listas de exercícios individuais (peso 3)
 
+# Exercícios
+
++ [Revisão, programação, etc.](exercicios.md)
+
 # Plano de aulas
+
 + [Motivação](turtleacademy.md)
 + [Conceitos básicos](algoritmo.md)
 + Entrada e saída
 + Expressões aritméticas
 + Repetição
 
-(Prova 01: 26/9)
+(Prova 01: era  26/9)  Observação: Essa data será modificada.
 
 + Desvios condicionais
 + Vetores
