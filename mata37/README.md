@@ -17,7 +17,7 @@ Desenvolvimento de algoritmos. Refinamento sucessivo. Noções de especificaçã
 
 # Exercícios
 
-+ [Revisãoi de conceitos, programação, etc.](exercicios.md)
++ [Revisão de conceitos, programação, etc.](exercicios.md)
 
 # Plano de aulas
 
