@@ -1,12 +1,11 @@
-
 # Motivação
 
-Créditos:
+## Créditos
 + [Turtle Academy](https://turtleacademy.com)
 
 ---
 
-## Comando simples
+# Comando simples
 
 	forward 50
 	backward 100
@@ -28,35 +27,35 @@ Créditos:
 
 ---
 
-## Sequência de comandos 
+# Sequência de comandos 
 
 	penup setxy -30 70 pendown seth 90 label "victory
 
-## Bloco de comandos
+# Bloco de comandos
 
 	[rt 90 fd 50]
 
 ---
 
-## Repetição
+# Repetição
 
 	repeat 4 [rt 90 fd 100]
 
 ---
 
-## "Comando" definido pelo usuário
+# "Comando" definido pelo usuário
 
 
 + construção __to__ _nome_ _comando(s)_ __end__
 
 
-### comando "dashline" definido pelo usuário para desenhar linha tracejada de tamanho 100
+## comando "dashline" definido pelo usuário para desenhar linha tracejada de tamanho 100
 
 
 	to dashline repeat 5 [setwidth 1 fd 10 setwidth 3 fd 10] end
 
 
-### comando "square" definido pelo usuário para desenhar quadrado com comando "dashline"
+## comando "square" definido pelo usuário para desenhar quadrado com comando "dashline"
 
 
 	to square repeat 4 [rt 90 dashline] end
@@ -64,7 +63,7 @@ Créditos:
 
 ---
 
-## Exemplo
+# Exemplo
 
 
 	make "edges ( readword [please enter number of edges] )
@@ -73,7 +72,7 @@ Créditos:
 
 ---
 
-## Condicional
+# Condicional
 
 
 	make "num 1
@@ -84,7 +83,6 @@ Créditos:
 	
 	IFELSE :num = 1 [print [Number is 1]] [print [Number is not 1]]
 
----
 
 <!--  for [var_name var_initial_value var_last_value advance] [command sequence ] -->
 <!-- do.while[ COMMANDS ]condition -->

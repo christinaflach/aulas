@@ -1,11 +1,6 @@
-<!--
----
-layout: remark
-title: Algoritmo
----
--->
+# Conceitos
 
-# Créditos
+## Créditos
 
 Adaptado a partir de:
 + [Aulas do Prof. Rodrigo Rocha (UFBA)](https://rodrigorgs.github.io/aulas/mata37/)

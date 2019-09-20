@@ -1,16 +1,11 @@
----
-layout: remark
-title: Entrada e saída
----
+# Entrada e Saída
 
-# Créditos
+## Créditos
 
 Adaptado a partir de:
 + [Aulas do Prof. Rodrigo Rocha (UFBA)](https://rodrigorgs.github.io/aulas/mata37/)
 
 ---
-
-<div>
 
 # Entrada e saída
 
@@ -155,4 +150,3 @@ scanf("%d%d%d", &x, &y, &z);
 printf("Soma: %d\n", x + y + z);
 ```
 
-</div>
