@@ -37,26 +37,17 @@
 
 ## Implementação de LISTA
 
+### Com _pointer_, em C
 
-### Com _pointer_ 
-
-```
-// A linked list node 
-struct Node { 
-    int data; 
-    struct Node* next; 
-}; 
-```
-
-[First Simple Linked List in C. Let us create a simple linked list with 3 nodes](https://www.geeksforgeeks.org/linked-list-set-1-introduction/).
-
+Fonte do material a seguir: https://www.geeksforgeeks.org/data-structures/linked-list/ 
+[First Simple Linked List in C, with 3 elements](https://www.geeksforgeeks.org/linked-list-set-1-introduction/).
 
 ```
-// A simple C program to introduce 
-// a linked list 
+// A simple C program to introduce linked lists 
 #include <stdio.h> 
 #include <stdlib.h> 
   
+// A linked list node 
 struct Node { 
     int data; 
     struct Node* next; 
