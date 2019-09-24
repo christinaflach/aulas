@@ -16,5 +16,7 @@ Ver saída abaixo.
 ### Exemplo
 
 | Entrada      | Saída    | 
+
 | 74,00        | 1 nota de R$50,00, 1 nota de R$20,00 e 2 notas de R$2,00.  | 
+
 | 25,50        | 1 nota de R$20,00, 1 nota de R$5,00 e 1 moeda de 0,50.  | 
