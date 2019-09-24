@@ -11,7 +11,7 @@ Valor do troco em reais. (Exemplo, 74,00 ou 25,50)
 
 ### Saída
 
-Ver saída abaixo.
+Quantidade de cédulas/notas e moedas. Ver exemplos abaixo.
 
 ### Exemplos
 
@@ -19,11 +19,11 @@ Entrada: 74,00
 
 Saída: 
 
-1 nota de R$50,00
+1 de R$50,00
 
-1 nota de R$20,00
+1 de R$20,00
 
-2 notas de R$2,00 
+2 de R$2,00 
 
 ---
 
@@ -31,11 +31,11 @@ Entrada: 25,50
 
 Saída:
 
-1 nota de R$20,00
+1 de R$20,00
 
-1 nota de R$5,00
+1 de R$5,00
 
-1 moeda de 0,50
+1 de 0,50
 
 ---
 
@@ -43,5 +43,5 @@ Entrada: 50,00
 
 Saída:        
 
-1 nota de R$50,00
+1 de R$50,00
  
