@@ -15,7 +15,7 @@ Ver saída abaixo.
 
 ### Exemplos
 
-1. Entrada: 74,00
+Entrada: 74,00
 
 Saída: 
 
@@ -25,7 +25,9 @@ Saída:
 
 2 notas de R$2,00 
 
-2. Entrada: 25,50
+---
+
+Entrada: 25,50
 
 Saída:
 
@@ -35,7 +37,9 @@ Saída:
 
 1 moeda de 0,50
 
-3. Entrada: 50,00        
+---
+
+Entrada: 50,00        
 
 Saída:        
 
