@@ -15,20 +15,27 @@ Ver saída abaixo.
 
 ### Exemplos
 
-Entrada: 74,00
-Saída: 
++ Entrada: 74,00
+
++ Saída: 
 1 nota de R$50,00
+
 1 nota de R$20,00
+
 2 notas de R$2,00 
 
-Entrada: 25,50
-Saída:
++ Entrada: 25,50
+
++ Saída:
 1 nota de R$20,00
+
 1 nota de R$5,00
+
 1 moeda de 0,50
 
-Entrada: 50,00        
-Saída:        
++ Entrada: 50,00        
+
++ Saída:        
 1 nota de R$50,00
 
 
