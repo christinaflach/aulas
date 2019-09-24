@@ -23,7 +23,7 @@ Desenvolvimento de algoritmos. Refinamento sucessivo. Noções de especificaçã
 
 + [Motivação](turtleacademy.md)
 + [Conceitos básicos](algoritmo.md)
-+ [Entrada e saída](entradasaida.md)
++ [Alô mundo](https://rodrigorgs.github.io/aulas/mata37/intro-cpp#1), [Entrada e Saída (E/S)](entradasaida.md)
 + Expressões aritméticas
 + Repetição
 
