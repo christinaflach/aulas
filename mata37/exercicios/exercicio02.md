@@ -17,7 +17,8 @@ Ver saída abaixo.
 
 + Entrada: 74,00
 
-+ Saída: 
+Saída: 
+
 1 nota de R$50,00
 
 1 nota de R$20,00
@@ -26,7 +27,8 @@ Ver saída abaixo.
 
 + Entrada: 25,50
 
-+ Saída:
+Saída:
+
 1 nota de R$20,00
 
 1 nota de R$5,00
@@ -35,8 +37,7 @@ Ver saída abaixo.
 
 + Entrada: 50,00        
 
-+ Saída:        
+Saída:        
+
 1 nota de R$50,00
-
-
  
