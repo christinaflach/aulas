@@ -17,7 +17,6 @@ Output : 1->2->3->4->5
 Input :arr[]={10, 11, 12, 13}
 Output : 10->11->12->13
 
-
 3. Implement a function to perform binary search in an ordered list of integer elements. You will have to implement a function to sort the list.
 
    - int binarySearch(int key, IntegerList *): returns order of key in the list, or 0 if key is not found;
