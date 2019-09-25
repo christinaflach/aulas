@@ -20,7 +20,13 @@ Ordenação externa.
 
 # Plano de aulas
 
-- 18/9 e 20/9: 
+- 25/9 e 27/9:
+   + Aula prática
+
+- 18/9 e 20/9: Listas
+   + Leitura de [estruturas de dados fundamentais](tutorial/estruturasfundamentais.md) e links indicados.
+   + Leitura de [listas lineares](tutorial/listas.md) e links indicados.
+
 - 13/9: Revisão de [definição e uso de funções](https://www.ime.usp.br/~hitoshi/introducao/16-funcao02.pdf), [funções e ponteiros](https://www.ime.usp.br/~hitoshi/introducao/17-funcao03.pdf), [vetores](https://www.ime.usp.br/~hitoshi/introducao/18-vetor.pdf) e [vetores, ponteiros e funções](https://www.ime.usp.br/~hitoshi/introducao/19-vetor_ponteiro.pdf). 
    + *Leitura e exercícios recomendados*: Partes 16 a 19 da apostila da USP.
 
@@ -47,13 +53,13 @@ Ordenação externa.
 
 3. [Estruturas de dados fundamentais](tutorial/estruturasfundamentais.md)
    - [Listas lineares](tutorial/listas.md)
-   - Filas
-   - Pilhas
+   - [Filas](tutorial/filas.md)
+   - [Pilhas](tutorial/pilhas.md)
    - Árvores
    - Heaps.
 
 4. Algoritmos de busca em memória principal
-   - Busca sequencial
+   - [Busca sequencial](tutorial/buscasequencial.md)
    - Busca binária
    - Busca em árvore binária.
 
@@ -95,6 +101,10 @@ Ordenação externa.
 
 + [Git Basics - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 + [Try Git](https://try.github.io/levels/1/challenges/1)
+
+### Sobre Estruturas de Dados e Algoritmos
+
++ (binary search anime](https://pt.khanacademy.org/computer-programming/binary-search-with-selectable-search-key-hit-backspace-and-type/4590599206076416/embedded?embedded?embed=yes&editor=no&width=720)
    
 # Referências Bibliográficas
 
