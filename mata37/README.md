@@ -23,8 +23,8 @@ Desenvolvimento de algoritmos. Refinamento sucessivo. Noções de especificaçã
 
 + [Motivação](turtleacademy.md)
 + [Conceitos básicos](algoritmo.md)
-+ [Entrada e saída](entradasaida.md)
-+ Expressões aritméticas
++ [Alô mundo](https://rodrigorgs.github.io/aulas/mata37/intro-cpp#1), [Entrada e Saída (E/S)](entradasaida.md)
++ [Expressões aritméticas](https://rodrigorgs.github.io/aulas/mata37/aritmetica#1), [Variáveis](https://rodrigorgs.github.io/aulas/mata37/variaveis#1)
 + Repetição
 
 (Prova 01: era  26/9)  Observação: Essa data será modificada.
