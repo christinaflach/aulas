@@ -20,8 +20,8 @@ Ordenação externa.
 
 # Plano de aulas
 
-- 25/9 e 27/9:
-   + Aula prática
+- 25/9 e 27/9: Aula prática
+   + [Exercícios](exercicios/listas01.md)
 
 - 18/9 e 20/9: Listas
    + Leitura de [estruturas de dados fundamentais](tutorial/estruturasfundamentais.md) e links indicados.
