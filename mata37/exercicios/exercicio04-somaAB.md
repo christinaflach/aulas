@@ -18,8 +18,7 @@ Data de entrega (item 6): 24/9/2019
 
    6 Escrever um programa em C++ (usando o ambiente repl.it) que implementa o problema apresentado a seguir (Leitura de dois valores inteiros e impressão em tela do resultado da soma). Dica: declare duas variáveis A e B e as utilize em seu programa:  `int A;  int B;`.
    
-   - Formato de entrega para o item 6: Uma folha de papel com seu nome e (a) código-fonte do programa C++ (escrito a mão), (b) texto explicativo para cada linha do programa C++, e (c) link para o programa C++ criado em sua conta [repl.it](https://repl.it).  
-      
+   - Formato de entrega para o item 6: Uma folha de papel com seu nome e (a) código-fonte do programa C++, (b) texto explicativo para cada linha do programa C++, e (c) link para o programa C++ criado em sua conta [repl.it](https://repl.it).  
    
 ## Figura 1
 
