@@ -14,4 +14,3 @@ Formato de entrega: Respostas em uma folha de caderno ou papel ofício, usar can
    + O que é um compilador?
    + O que é um algoritmo? Dê dois exemplos práticos.
 
-
