@@ -24,10 +24,12 @@ Desenvolvimento de algoritmos. Refinamento sucessivo. Noções de especificaçã
 + [Motivação](turtleacademy.md)
 + [Conceitos básicos](algoritmo.md)
 + [Alô mundo](https://rodrigorgs.github.io/aulas/mata37/intro-cpp#1), [Entrada e Saída (E/S)](entradasaida.md)
-+ [Expressões aritméticas](https://rodrigorgs.github.io/aulas/mata37/aritmetica#1), [Variáveis](https://rodrigorgs.github.io/aulas/mata37/variaveis#1)
++ [Expressões aritméticas](https://rodrigorgs.github.io/aulas/mata37/aritmetica#1)
++ [Variáveis](https://rodrigorgs.github.io/aulas/mata37/variaveis#1) e [Tipos](https://rodrigorgs.github.io/aulas/mata37/variaveis#3)
++ Atribuição
 + Repetição
 
-(Prova 01: era  26/9)  Observação: Essa data será modificada.
+(Prova 01: data a ser definida)  Observação: Essa data será modificada.
 
 + Desvios condicionais
 + Vetores
@@ -41,7 +43,6 @@ Desenvolvimento de algoritmos. Refinamento sucessivo. Noções de especificaçã
 + Recursão
 
 (Prova 03: 28/11)
-
 
 # Links
 
