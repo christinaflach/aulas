@@ -38,9 +38,18 @@
 12      }
 ```
 
-5. O que é uma _variável_ em um programa de computador? Explique a declaração abaixo:
+5. O que é uma _variável_ em um programa de computador? Como pode ser utilizada?
+
+
+6. Explique o trecho de programa abaixo. O que será colocado na saída de dados?
 
 ```
 	int i; 
+	int j;
+	i = 2;
+	j = 10;
+        cout << "i * j" << endl;
+	cout << i * j << endl; 
+
 ```
 
