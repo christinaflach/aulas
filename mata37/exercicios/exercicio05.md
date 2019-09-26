@@ -14,6 +14,7 @@
 ```
 
 a) Se a linha abaixo for inserida no programa exemplo01.cpp, haverá algum tipo de modificação na execução do programa? Justifique.
+
 `
 /* Programa exemplo01.cpp */
 `
