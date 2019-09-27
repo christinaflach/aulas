@@ -177,26 +177,32 @@ void printList(struct Node* n)
 1. Inserir elemento em lista vazia.
 
 2. Inserir no final da lista.
-               
+
+```
       head
         |
         +---+---+    +----+------+        
         | 2 | o----->| 4  | NULL | 
         +---+---+    +----+------+        
+```
 
 3. Inserir no início da lista.
-  
+
+```
       head     
         |   
         +---+---+     +---+---+      +----+------+ 
         | 1  | o----->| 2 | o----->  | 4  | NULL | 
         +---+---+     +---+---+      +----+------+        
+```
 
 4. Inserir no meio da lista. 
-  
+
+```  
       head   
         |  
         +---+---+     +---+---+       +----+----+     +----+------+ 
         | 1  | o----->|  2  | o-----> |  3 |    o---->|  4 | NULL | 
         +---+---+     +---+---+       +----+----+     +----+------+   
+  ```
   
