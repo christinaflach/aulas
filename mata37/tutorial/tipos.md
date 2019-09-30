@@ -1,8 +1,3 @@
----
-layout: remark
-title: Tipos de dados
----
-
 # Tipos de Dados
 
 ## Créditos
