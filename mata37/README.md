@@ -56,3 +56,19 @@ Desenvolvimento de algoritmos. Refinamento sucessivo. Noções de especificaçã
 
 # Referências Bibliográficas
 
+## Bibliografia Básica (programa da disciplina)
+
+[1] Lopes, A.; Garcia, G. Introdução à Programação: 500 algoritimos resolvidos. Editora Campus.
+
+[2] Forbellone, A.L.V. Lógica de Programação. Makron Books. 
+
+[3] Manzano, J.A.; Oliveira, J.F. 
+Algoritmos-Lógica para Desenvolvimento de Programação. Editora Erica. 
+
+[4] Schildt, H. C Completo e Total. Makron Books. 
+
+## Bibliografia Complementar
+
+[5] Kernighan B.; Pike, R.A. Prática da Programação. Editora Campus.
+
+
