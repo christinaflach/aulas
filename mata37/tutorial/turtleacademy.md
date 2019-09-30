@@ -4,16 +4,26 @@ Por que aprender a programar?
 
 ---
 
-## Motivação: code.org
+## Objetivos da disciplina
+
+- Escrever pequenos programas de computador
+
+- Resolver problemas através programas (raciocínio computacional).
+
+---
+
+## Motivação
 
 
-[Video](https://www.youtube.com/embed/nKIu9yen5nc?hl=pt)
+[Video - code.org](https://www.youtube.com/embed/nKIu9yen5nc?hl=pt)
+
+[Video - Khan Academy](https://youtube.com/embed/FCMxA3m_Imc?hl=pt)
 
 ---
 
 ## Turtle Academy
 
-+ Ver lições (lessons) em [Turtle Academy](https://turtleacademy.com)
++ [Lições (lessons) em Turtle Academy](https://turtleacademy.com/lessons)
 
 ### Comandos simples
 
