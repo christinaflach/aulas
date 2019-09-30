@@ -58,7 +58,7 @@ Desenvolvimento de algoritmos. Refinamento sucessivo. Noções de especificaçã
 
 ## Bibliografia Básica (programa da disciplina)
 
-[1] Lopes, A.; Garcia, G. Introdução à Programação: 500 algoritimos resolvidos. Editora Campus.
+[1] Lopes, A.; Garcia, G. Introdução à Programação: 500 algoritmos resolvidos. Editora Campus.
 
 [2] Forbellone, A.L.V. Lógica de Programação. Makron Books. 
 
