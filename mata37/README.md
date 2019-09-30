@@ -6,10 +6,6 @@
 - Turma: T04 P04
 - Prof. Christina von Flach G. Chavez (flach@ufba.br)
 
-+ Programa da Disciplina
-+ Plano de Aulas (2019.2 T04)
-
-
 ---
 
 # Programa da Disciplina
@@ -19,9 +15,27 @@ Desenvolvimento de algoritmos. Refinamento sucessivo. Noções de especificaçã
 
 ## [Conteúdo Programático](https://alunoweb.ufba.br/SiacWWW/ExibirEmentaPublico.do?cdDisciplina=MATA37&nuPerInicial=20071)
 
-1. Introdução a Algoritmos e Programas 1.1. Introdução a algoritmos 1.2. Introdução a programas 1.3. Aspectos envolvidos na construção de programas (clareza, corretude, programação estruturada e modular, documentação, teste e análise de resultados) 2. Introdução a C e C++ 2.1. Estrutura de programas 2.2. Tipos simples: float, int, char, double, long 2.3. Declaração de constantes e variáveis 2.4. Instruções de atribuição e de entrada e saída 2.5. Operadores e expressões aritméticas 3. Comandos de seleção 3.1. Desvios condicionais, comandos if-else e switch-case 4. Comandos de repetição 4.1. Comando for 4.2. Comando while e do-while 5. Manipulação de vetores 6. Manipulação de strings 7. Manipulação de matrizes 8. Algoritmos de ordenação 8.1. Selection sort 8.2. Bubble sort 9. Buscas em vetores 9.1. Busca sequencial 9.2. Busca binária 10. Funções 10.1. Passagem de parâmetros 10.2. Escopo de variáveis 10.3. Recursão.
+1. Introdução a Algoritmos e Programas 1.1. Introdução a algoritmos 1.2. Introdução a programas 1.3. Aspectos envolvidos na construção de programas (clareza, corretude, programação estruturada e modular, documentação, teste e análise de resultados) 
 
-## Referências Bibliográficas
+2. Introdução a C e C++ 2.1. Estrutura de programas 2.2. Tipos simples: float, int, char, double, long 2.3. Declaração de constantes e variáveis 2.4. Instruções de atribuição e de entrada e saída 2.5. Operadores e expressões aritméticas 
+
+3. Comandos de seleção 3.1. Desvios condicionais, comandos if-else e switch-case 
+
+4. Comandos de repetição 4.1. Comando for 4.2. Comando while e do-while 
+
+5. Manipulação de vetores 
+
+6. Manipulação de strings 
+
+7. Manipulação de matrizes 
+
+8. Algoritmos de ordenação 8.1. Selection sort 8.2. Bubble sort 
+
+9. Buscas em vetores 9.1. Busca sequencial 9.2. Busca binária 
+
+10. Funções 10.1. Passagem de parâmetros 10.2. Escopo de variáveis 10.3. Recursão.
+
+## [Referências Bibliográficas](https://alunoweb.ufba.br/SiacWWW/ExibirEmentaPublico.do?cdDisciplina=MATA37&nuPerInicial=20071)
 
 ### Bibliografia Básica (programa da disciplina)
 
@@ -37,8 +51,6 @@ Algoritmos-Lógica para Desenvolvimento de Programação. Editora Erica.
 ### Bibliografia Complementar
 
 [5] Kernighan B.; Pike, R.A. Prática da Programação. Editora Campus.
-
-+ Apostila: [Introdução à Ciência da Computação em C](https://www.ime.usp.br/~hitoshi/introducao/)
 
 ---
 
@@ -80,8 +92,6 @@ Algoritmos-Lógica para Desenvolvimento de Programação. Editora Erica.
 
 + Editores de C++ online:
    - [repl.it: C++ online](https://repl.it/languages/cpp)
-
++ Apostila: [Introdução à Ciência da Computação em C](https://www.ime.usp.br/~hitoshi/introducao/)
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
-
-
 
