@@ -6,13 +6,11 @@
 - Turma: T04 P04
 - Prof. Christina von Flach G. Chavez (flach@ufba.br)
 
-[Programa da Disciplina]
-
-[Plano de Aulas] (2019.2 T04)
++ Programa da Disciplina
++ Plano de Aulas (2019.2 T04)
 
 
 ---
-
 
 # Programa da Disciplina
 ## [Ementa](https://alunoweb.ufba.br/SiacWWW/ExibirEmentaPublico.do?cdDisciplina=MATA37&nuPerInicial=20071)
@@ -45,7 +43,6 @@ Algoritmos-Lógica para Desenvolvimento de Programação. Editora Erica.
 ---
 
 # Plano de Aulas (2019.2 T04)
-
 ## Linha do Tempo
 + [Motivação](tutorial/turtleacademy.md)
 + [Conceitos básicos](tutorial/algoritmo.md)
