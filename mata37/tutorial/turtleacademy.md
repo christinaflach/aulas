@@ -1,11 +1,21 @@
 # Motivação
 
-## Créditos
-+ [Turtle Academy](https://turtleacademy.com)
+Por que aprender a programar?
 
 ---
 
-# Comando simples
+## Motivação: code.org
+
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nKIu9yen5nc?hl=pt" frameborder="0" allowfullscreen></iframe>
+
+---
+
+## Turtle Academy
+
++ Ver lições (lessons) em [Turtle Academy](https://turtleacademy.com)
+
+### Comando simples
 
 	forward 50
 	backward 100
@@ -27,35 +37,35 @@
 
 ---
 
-# Sequência de comandos 
+### Sequência de comandos 
 
 	penup setxy -30 70 pendown seth 90 label "victory
 
-# Bloco de comandos
+### Bloco de comandos
 
 	[rt 90 fd 50]
 
 ---
 
-# Repetição
+### Repetição
 
 	repeat 4 [rt 90 fd 100]
 
 ---
 
-# "Comando" definido pelo usuário
+### "Comando" definido pelo usuário
 
 
 + construção __to__ _nome_ _comando(s)_ __end__
 
 
-## comando "dashline" definido pelo usuário para desenhar linha tracejada de tamanho 100
+### comando "dashline" definido pelo usuário para desenhar linha tracejada de tamanho 100
 
 
 	to dashline repeat 5 [setwidth 1 fd 10 setwidth 3 fd 10] end
 
 
-## comando "square" definido pelo usuário para desenhar quadrado com comando "dashline"
+### comando "square" definido pelo usuário para desenhar quadrado com comando "dashline"
 
 
 	to square repeat 4 [rt 90 dashline] end
@@ -63,7 +73,7 @@
 
 ---
 
-# Exemplo
+### Exemplo
 
 
 	make "edges ( readword [please enter number of edges] )
@@ -72,7 +82,7 @@
 
 ---
 
-# Condicional
+### Condicional
 
 
 	make "num 1
