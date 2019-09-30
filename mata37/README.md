@@ -47,7 +47,7 @@ Algoritmos-Lógica para Desenvolvimento de Programação. Editora Erica.
 # Plano de Aulas (2019.2 T04)
 
 ## Linha do Tempo
-+ [Motivação](turtleacademy.md)
++ [Motivação](tutorial/turtleacademy.md)
 + [Conceitos básicos](tutorial/algoritmo.md)
 + [Alô mundo](https://rodrigorgs.github.io/aulas/mata37/intro-cpp#1), [Entrada e Saída (E/S)](tutorial/entradasaida.md)
 + [Variáveis](tutorial/variaveis.md) e [Tipos](tutorial/tipos.md)
