@@ -22,11 +22,11 @@ Desenvolvimento de algoritmos. Refinamento sucessivo. Noções de especificaçã
 # Plano de aulas
 
 + [Motivação](turtleacademy.md)
-+ [Conceitos básicos](algoritmo.md)
-+ [Alô mundo](https://rodrigorgs.github.io/aulas/mata37/intro-cpp#1), [Entrada e Saída (E/S)](entradasaida.md)
++ [Conceitos básicos](tutorial/algoritmo.md)
++ [Alô mundo](https://rodrigorgs.github.io/aulas/mata37/intro-cpp#1), [Entrada e Saída (E/S)](tutorial/entradasaida.md)
++ [Variáveis](tutorial/variaveis.md) e [Tipos](tutorial/tipos.md)
++ [Atribuição](tutorial/atribuicao.md)
 + [Expressões aritméticas](https://rodrigorgs.github.io/aulas/mata37/aritmetica#1)
-+ [Variáveis](https://rodrigorgs.github.io/aulas/mata37/variaveis#1) e [Tipos](https://rodrigorgs.github.io/aulas/mata37/variaveis#3)
-+ Atribuição
 + Repetição
 
 (Prova 01: data a ser definida)  Observação: Essa data será modificada.
