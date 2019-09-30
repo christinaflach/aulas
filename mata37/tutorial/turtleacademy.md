@@ -15,15 +15,15 @@ Por que aprender a programar?
 ## Motivação
 
 
-[Video - code.org](https://www.youtube.com/embed/nKIu9yen5nc?hl=pt)
-
-[Video - Khan Academy](https://youtube.com/embed/FCMxA3m_Imc?hl=pt)
++ [Video - code.org](https://www.youtube.com/embed/nKIu9yen5nc?hl=pt)
++ [Video - Khan Academy](https://youtube.com/embed/FCMxA3m_Imc?hl=pt)
++ [Lições (lessons) em Turtle Academy](https://turtleacademy.com/lessons)
 
 ---
 
 ## Turtle Academy
 
-+ [Lições (lessons) em Turtle Academy](https://turtleacademy.com/lessons)
++ [Lições em Turtle Academy](https://turtleacademy.com/lessons)
 
 ### Comandos simples
 
