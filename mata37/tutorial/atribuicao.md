@@ -1,8 +1,3 @@
----
-layout: remark
-title: Atribuição
----
-
 # Atribuição
 
 ## Créditos
