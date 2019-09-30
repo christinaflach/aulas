@@ -7,7 +7,7 @@ Por que aprender a programar?
 ## Motivação: code.org
 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/nKIu9yen5nc?hl=pt" frameborder="0" allowfullscreen></iframe>
+[Video](https://www.youtube.com/embed/nKIu9yen5nc?hl=pt)
 
 ---
 
@@ -15,7 +15,7 @@ Por que aprender a programar?
 
 + Ver lições (lessons) em [Turtle Academy](https://turtleacademy.com)
 
-### Comando simples
+### Comandos simples
 
 	forward 50
 	backward 100
