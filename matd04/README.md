@@ -104,7 +104,7 @@ Ordenação externa.
 
 ### Sobre Estruturas de Dados e Algoritmos
 
-+ (binary search anime](https://pt.khanacademy.org/computer-programming/binary-search-with-selectable-search-key-hit-backspace-and-type/4590599206076416/embedded?embedded?embed=yes&editor=no&width=720)
++ [binary search anime](https://pt.khanacademy.org/computer-programming/binary-search-with-selectable-search-key-hit-backspace-and-type/4590599206076416/embedded?embedded?embed=yes&editor=no&width=720)
    
 # Referências Bibliográficas
 
