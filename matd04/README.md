@@ -21,20 +21,20 @@ Ordenação externa.
 # Plano de aulas
 
 - 25/9 e 27/9: Aula prática
-   + [Exercícios](exercicios/listas01.md). Entrega até 18/10.
+   + [Exercícios](exercicios/listas01.md). **Entrega até 18/10**.
 
 - 18/9 e 20/9: Listas
    + Leitura de [estruturas de dados fundamentais](tutorial/estruturasfundamentais.md) e links indicados.
    + Leitura de [listas lineares](tutorial/listas.md) e links indicados.
 
 - 13/9: Revisão de [definição e uso de funções](https://www.ime.usp.br/~hitoshi/introducao/16-funcao02.pdf), [funções e ponteiros](https://www.ime.usp.br/~hitoshi/introducao/17-funcao03.pdf), [vetores](https://www.ime.usp.br/~hitoshi/introducao/18-vetor.pdf) e [vetores, ponteiros e funções](https://www.ime.usp.br/~hitoshi/introducao/19-vetor_ponteiro.pdf). 
-   + *Leitura e exercícios recomendados*: Partes 16 a 19 da apostila da USP. Entrega até 11/10.
+   + *Exercícios recomendados*: Todos os exercícios das partes 17 e 19 da apostila da USP. **Entrega até 11/10**.
 
 - 11/9: Revisão da linguagem de programação C. Aula prática: github, exercício de revisão sobre E/S padrão, ordenação e busca em vetor (em lab). 
    + *Leitura e exercícios recomendados*: partes 16 a 19 da apostila da USP.
    
 - 06/9: Introdução: Análise de algoritmos. Aula teórica.
-   + *Leitura e exercícios recomendados*: Leitura do capítulo 1 da referência (1) para realizar os seguintes exercícios recomendados no final do capítulo: 2 a 5, 10 a 15. Entrega até 9/10.
+   + *Leitura e exercícios recomendados*: Leitura do capítulo 1 da referência (1) para realizar os seguintes exercícios recomendados no final do capítulo: 2 a 5, 10 a 15. **Entrega até 09/10**.
    
 - 04/9: Primeira aula. Apresentação da disciplina.
    + *Leitura recomendada*: capítulo 1 da referência (1).
