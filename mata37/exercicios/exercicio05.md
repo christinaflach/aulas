@@ -30,17 +30,17 @@ c) O nome _main_ pode ser modificado? Explique.
 
 ```
 1   // exemplo02.cpp
-2	#include <iostream>
-3       using namespace std;
+2 #include <iostream>
+3 using namespace std;
 4       
-5   int main() {
-6	   int i;
-7	   cout << "Digite um número: ";
-8 	   cin >> i;
-9      cout << "Número digitado foi " << i << endl;
+5 int main() {
+6    int i;
+7    cout << "Digite um número: ";
+8    cin >> i;
+9    cout << "Número digitado foi " << i << endl;
 
-11     return 0;
-12   }
+11   return 0;
+12 }
 ```
 
 4. O que é uma _variável_ em um programa de computador? Como pode ser utilizada?
