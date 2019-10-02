@@ -29,7 +29,7 @@ Ordenação externa.
 
 - 13/9: Revisão de [definição e uso de funções](https://www.ime.usp.br/~hitoshi/introducao/16-funcao02.pdf), [funções e ponteiros](https://www.ime.usp.br/~hitoshi/introducao/17-funcao03.pdf), [vetores](https://www.ime.usp.br/~hitoshi/introducao/18-vetor.pdf) e [vetores, ponteiros e funções](https://www.ime.usp.br/~hitoshi/introducao/19-vetor_ponteiro.pdf). 
    + *Exercícios recomendados*: Todos os exercícios da parte 17 da apostila da USP. **Entrega até 11/10**.
-   + *Exercícios recomendados*: Todos os exercícios da parte 19 da apostila da USP. **Entrega até 13/10**.
+   + *Exercícios recomendados*: Todos os exercícios da parte 19 da apostila da USP (Entrega opcional, pois os exercícios estão resolvidos). **Entrega até 13/10**.
 
 - 11/9: Revisão da linguagem de programação C. Aula prática: github, exercício de revisão sobre E/S padrão, ordenação e busca em vetor (em lab). 
    + *Leitura e exercícios recomendados*: partes 16 a 19 da apostila da USP.
