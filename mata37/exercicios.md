@@ -1,7 +1,13 @@
 # Exercícios
 
 
-Exercícios serão postados no [Google Classroom](https://classroom.google.com) da turma, clique no botão `+` e digite o código `ge8vtrr`. 
+## Listas de Exercícios
+
+   + 22/10
+      - [Lista 01](exercicios/lista01.md)
+      
+## Avulsos
+Exercícios individuais serão postados no [Google Classroom](https://classroom.google.com) da turma, clique no botão `+` e digite o código `ge8vtrr`. 
 
    + 19-09 (entrega: 30/9)
       - [Conceitos](exercicios/exercicio03-conceitos.md)
