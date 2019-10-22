@@ -65,8 +65,8 @@ Algoritmos-Lógica para Desenvolvimento de Programação. Editora Erica.
 
 (Prova 01: data a ser definida)  Observação: Essa data será modificada.
 
-+ Desvios condicionais
-+ Repetição
++ [Seleção](tutorial/selecao.md)
++ [Repetição](tutorial/repeticao.md)
 + Vetores
 + Strings
 
