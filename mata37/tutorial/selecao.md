@@ -86,7 +86,7 @@ Semântica: se a condição for verdadeira, executa `bloco1`; se for falsa, exec
 
 Semântica:
 
-![Fluxograma do if-else](http://s3.amazonaws.com/magoo/ABAAABVhUAD-49.jpg)
+![Fluxograma do if-else](tutorial/ABAAABVhUAD-49.jpg)
 
 ---
 
