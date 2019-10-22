@@ -62,26 +62,23 @@ Algoritmos-Lógica para Desenvolvimento de Programação. Editora Erica.
 + [Variáveis](tutorial/variaveis.md) e [Tipos](tutorial/tipos.md)
 + [Atribuição](tutorial/atribuicao.md)
 + [Expressões aritméticas](https://rodrigorgs.github.io/aulas/mata37/aritmetica#1)
-
-(Prova 01: data a ser definida)  Observação: Essa data será modificada.
-
 + [Seleção](tutorial/selecao.md)
 + [Repetição](tutorial/repeticao.md)
+
+(Prova 01: 31/10)
+
 + Vetores
 + Strings
-
-(Prova 02: 31/10)
-
 + Matrizes
 + Ordenação
 + Busca Binária
 + Recursão
 
-(Prova 03: 28/11)
+(Prova 02: 28/11)
 
 ## Exercícios
 
-+ [Revisão de conceitos, programação, etc.](exercicios.md)
++ [Listas de exercícios, revisão de conceitos, exercícios de programação avulsos, etc.](exercicios.md)
 
 ## Avaliações
 
