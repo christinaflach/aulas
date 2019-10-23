@@ -227,7 +227,7 @@ int main()
 
   cout << "Digite um par de numeros: ";
   cin >> a;  cin >> b;
-  cout << a << b << endl;
+  cout << a << ", " << b << endl;
   total = 0; 
   soma  = 0;
   while (a != 0) { 
@@ -240,7 +240,7 @@ int main()
     cout << "Soma = " << soma << endl;
     cout << "Digite um par de numeros: ";
     cin >> a;  cin >> b;
-    cout << a << b << endl;
+    cout << a << ", " << b << endl;
   }
   cout << "Total de pares: " << total << endl;
   return 0;
