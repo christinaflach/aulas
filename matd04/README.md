@@ -54,8 +54,8 @@ Ordenação externa.
 
 3. [Estruturas de dados fundamentais](tutorial/estruturasfundamentais.md)
    - [Listas lineares](tutorial/listas.md)
-   - [Filas](tutorial/filas.md)
    - [Pilhas](tutorial/pilhas.md)
+   - [Filas](tutorial/filas.md)
    - Árvores
    - Heaps.
 
