@@ -23,7 +23,7 @@
    + Entrada. Um número inteiro positivo n.
    + Saída. Sequência dos n primeiros números naturais ímpares.
    + Exemplo.
-      - Entrada: 4,  Saída: 1,3,5,7. 
+      - Entrada: 4,  Saída: 1 3 5 7
 
 ---
 
@@ -64,15 +64,16 @@ determinar a maior e a menor nota obtidas por essa turma (Nota máxima = 100 e n
 
    + Entrada.
    + Saída.
-   + Exemplo. Para n = 6 , i = 2 e j = 3 a saída deverá ser : 0,2,3,4,6,8. 
+   + Exemplo. Para n = 6 , i = 2 e j = 3 a saída deverá ser : 0 2 3 4 6 8. 
 
 
-10.  Dizemos que um número natural é triangular se ele é produto de três números naturais consecutivos.
+10.  Dizemos que um número natural é triangular se ele é produto de três números naturais consecutivos. 
+Por exemplo, 120 é triangular, pois 4.5.6 = 120.
+Dado um inteiro não-negativo n, verificar se n é triangular. 
 
    + Entrada.
    + Saída.
-   + Exemplo. 120 é triangular, pois 4.5.6 = 120.
-Dado um inteiro não-negativo n, verificar se n é triangular. 
+   + Exemplo. Entrada: 120  Saída: "120 é triangular".
 
 11.  Dado um inteiro positivo n, verificar se n é primo. 
 
@@ -180,9 +181,9 @@ Exemplo: A seguinte seqüência é formada por 5 segmentos de números iguais:  
 
 Exemplos:
 
-Na seqüência   5,  10,  3,  2,  4,  7,  9,  8,  5   o comprimento do segmento crescente máximo é 4.
+Na seqüência   5  10  3  2  4  7  9  8  5,   o comprimento do segmento crescente máximo é 4.
 
-Na seqüência   10,  8,  7,  5,  2   o comprimento de um segmento crescente máximo é 1. 
+Na seqüência   10  8  7  5  2,   o comprimento de um segmento crescente máximo é 1. 
 
    + Entrada.
    + Saída.
@@ -202,7 +203,7 @@ Exemplos:
 
 567675 não é palíndromo.
 
-Dado um número natural   n > 10 , verificar se n é palíndrome. 
+Dado um número natural   n > 10 , verificar se n é palíndromo. 
 
    + Entrada.
    + Saída.
@@ -211,6 +212,7 @@ Dado um número natural   n > 10 , verificar se n é palíndrome.
 24.  São dados dois números inteiros positivos p e q, sendo que o número de dígitos de p é menor ou igual ao número de dígitos de q. Verificar se p é um subnúmero de q.
 
 Exemplos:
+
 p = 23, q = 57238, p é subnúmero de q.
 p = 23, q = 258347, p não é subnúmero de q.
 
