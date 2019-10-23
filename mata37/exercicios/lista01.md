@@ -148,7 +148,6 @@ int main()
     cin >> a;  cin >> b;
     cout << a << b << endl; 
   }
-  cout << "Digite um par de numeros: ";
   cout << "Total de pares: " << total << endl;
   return 0;
 }
