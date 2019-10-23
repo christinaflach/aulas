@@ -3,13 +3,18 @@
 
 1.  Dada uma seqüência de números inteiros não-nulos, seguida por 0, imprimir seus quadrados. 
 
+Exemplo: Para a entrada 2 5 7 3 0, a saída deverá ser: 4 25 49 9
+
 
 2.  Dado um número inteiro positivo n, calcular a soma dos n primeiros números inteiros positivos. 
+
+Exemplo: Para a entrada 5, a saída deverá ser 15
 
 
 3.  Dado um número inteiro positivo n, imprimir os n primeiros naturais ímpares.
 
-Exemplo: Para n=4 a saída deverá ser 1,3,5,7. 
+Exemplo: Para n=4, a saída deverá ser 1 3 5 7
+
 
 4.  Dados um inteiro x e um inteiro não-negativo n, calcular x _elevado a_ n. 
 
@@ -17,8 +22,7 @@ Exemplo: Para n=4 a saída deverá ser 1,3,5,7.
 5.  Uma loja de discos anota diariamente, a cada semana, a quantidade de discos vendidos. Determinar em que dia da semana ocorreu a maior venda e qual foi a quantidade de discos vendida nesse dia. 
 
 
-6.  Dados o número n de alunos de uma turma 
-e suas notas da primeira prova, 
+6.  Dados o número n de alunos de uma turma e suas notas da primeira prova, 
 determinar a maior e a menor nota obtidas por essa turma (Nota máxima = 100 e nota mínima = 0). 
 
 7.  Dados n e uma seqüência de n números inteiros, determinar a soma dos números pares. 
@@ -27,7 +31,7 @@ determinar a maior e a menor nota obtidas por essa turma (Nota máxima = 100 e n
 
 9.  Dados n e dois números inteiros positivos i e j diferentes de 0, imprimir em ordem crescente os n primeiros naturais que são múltiplos de i ou de j e ou de ambos.
 
- Exemplo: Para n = 6 , i = 2 e j = 3 a saída deverá ser : 0,2,3,4,6,8. 
+Exemplo: Para n = 6 , i = 2 e j = 3 a saída deverá ser: 0 2 3 4 6 8 
 
 10.  Dizemos que um número natural é triangular se ele é produto de três números naturais consecutivos.
 
@@ -97,9 +101,9 @@ Exemplo: A seguinte seqüência é formada por 5 segmentos de números iguais:  
 
 Exemplos:
 
-Na seqüência   5,  10,  3,  2,  4,  7,  9,  8,  5   o comprimento do segmento crescente máximo é 4.
+Na seqüência   5  10  3  2  4  7  9  8  5,   o comprimento do segmento crescente máximo é 4.
 
-Na seqüência   10,  8,  7,  5,  2   o comprimento de um segmento crescente máximo é 1. 
+Na seqüência   10  8  7  5  2,  o comprimento de um segmento crescente máximo é 1. 
 
 23.  Dizemos que um número natural n é palíndromo (3) se 
     
@@ -115,7 +119,7 @@ Exemplos:
 
 567675 não é palíndromo.
 
-Dado um número natural   n > 10 , verificar se n é palíndrome. 
+Dado um número natural n > 10 , verificar se n é palíndromo. 
 
 24.  São dados dois números inteiros positivos p e q, sendo que o número de dígitos de p é menor ou igual ao número de dígitos de q. Verificar se p é um subnúmero de q.
 

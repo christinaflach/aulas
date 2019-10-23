@@ -6,8 +6,9 @@
    + Entrada. Sequência de números inteiros não-nulos, seguida por 0.
    + Saída. Sequência dos quadrados dos números, seguida por final de linha.
    + Exemplo.
-      - Entrada:  2 3 5 7 0,  Saída: 4 9 25 49 
-      - Entrada:  3 10 8 0,   Saída: 9 100 64
+      - Entrada:  2 5 4 10 0  Saída: 4 25 16 100
+      - Entrada:  7 0  Saída: 49 
+      - Entrada:  0  Saída: 
 
 2.  Dado um número inteiro positivo n, calcular a soma dos n primeiros números inteiros positivos. 
 
