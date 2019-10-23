@@ -131,24 +131,25 @@ int main()
 {
   int a, b, total, soma, termo, i;
 
-  printf("Digite um par de numeros: ");
-  scanf("%d %d", &a, &b);
-  printf("(%d, %d)\n", a, b);
-  total = 0; 
+  cout << "Digite um par de numeros: ";
+  cin >> a;  cin >> b;
+  cout << a << b << endl;
+  total = 0;
   soma  = 0;
-  while (a != 0) { 
-    total = total + 1; 
+  while (a != 0) {  
+    total = total + 1;
     termo = 1;
     for (i = 1; i <= b; i++)
-      termo = termo * a;
-    printf("Resp = %d\n", termo);
+      termo = termo * a; 
+    cout << "Resp = " << termo << endl;
     soma = soma + termo;
-    printf("Soma = %d\n", soma);
-    printf("Digite um par de numeros: ");
-    scanf("%d %d", &a, &b);
-    printf("(%d, %d)\n", a, b);
+    cout << "Soma = " << soma << endl;
+    cout << "Digite um par de numeros: ";
+    cin >> a;  cin >> b;
+    cout << a << b << endl; 
   }
-  printf("Total de pares: %d\n", total);
+  cout << "Digite um par de numeros: ";
+  cout << "Total de pares: " << total << endl;
   return 0;
 }
 ```
