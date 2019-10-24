@@ -63,7 +63,7 @@ Algoritmos-Lógica para Desenvolvimento de Programação. Editora Erica.
 + [Atribuição](tutorial/atribuicao.md)
 + [Expressões aritméticas](https://rodrigorgs.github.io/aulas/mata37/aritmetica#1)
 + [Seleção](tutorial/selecao.md)
-+ [Repetição](tutorial/repeticao.md)
++ [Repetição](tutorial/repeticao.md), Aula Prática
 
 (Prova 01: 31/10)
 
