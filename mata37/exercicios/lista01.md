@@ -1,12 +1,12 @@
 # Exercícios com Inteiros
 
 
-1.  Dada uma seqüência de números inteiros não-nulos, seguida por 0, imprimir seus quadrados. 
+### 1.  Dada uma seqüência de números inteiros não-nulos, seguida por 0, imprimir seus quadrados. 
 
 Exemplo: Para a entrada 2 5 7 3 0, a saída deverá ser: 4 25 49 9
 
 
-2.  Dado um número inteiro positivo n, calcular a soma dos n primeiros números inteiros positivos. 
+### 2.  Dado um número inteiro positivo n, calcular a soma dos n primeiros números inteiros positivos. 
 
 Exemplo: Para a entrada 5, a saída deverá ser 15
 
