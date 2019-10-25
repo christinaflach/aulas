@@ -20,6 +20,10 @@ Ordenação externa.
 
 # Plano de aulas
 
+- 23 e 25/10: Listas, Pilhas e Filas
+
+- 04/10 a 19/10: Licença médica da professora. Trabalhar em [Exercícios](exercicios/listas01.md)
+
 - 25/9 e 27/9: Aula prática
    + [Exercícios](exercicios/listas01.md). **Entrega até 18/10**.
 
