@@ -27,4 +27,17 @@ São utilizadas quando desejamos processar itens de acordo com a ordem “prime
 
 ## Filas como TAD
 
+   + put (Queue, element). Insere element no final da fila.
+   + get (Queue). Retorna elemento que está no início da fila, retirando-o da fila.
+   + isEmpty (Queue). Esta função retorna true se a fila está vazia; senão retorna false.
+
+
+É necessário manter dois índices, 
+um para o início da fila (_head_) e 
+outro para o final da fila (_tail_).
+Temos head = tail quando a fila estiver vazia.
+
+Na implementação de filas com vetores, com tamanho máximo M,
+Se head = tail +1, ou (tail = M e head = 0), a fila estará cheia.
+
 
