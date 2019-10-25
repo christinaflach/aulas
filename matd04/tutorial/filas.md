@@ -3,7 +3,7 @@
 Fonte do material (além dos livros referenciados):
 
 
-# Filas
+# Filas (Queues) 
 
 
 Uma fila é uma lista linear em que todas as inserções 
@@ -17,6 +17,7 @@ e todas as retiradas são feitas em outro extremo da lista.
    + FIFO: São chamadas listas fifo (“first-in”, “first-out”).
    + Existe uma ordem linear para filas que é a “ordem de chegada”.
 
+![Fila implementada com lista linear](fila.png)
 
 ## Aplicações
 

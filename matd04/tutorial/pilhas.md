@@ -2,7 +2,7 @@
   
 Fonte do material (além dos livros referenciados):
 
-## Pilhas 
+# Pilhas (Stacks) 
 
 Uma pilha é uma lista linear em que inserções, retiradas e, em geral, acessos, são feitos em apenas um  extremo da lista.
 
@@ -21,6 +21,9 @@ Os itens são colocados um sobre o outro. O item inserido mais recentemente est
 
 Uma pilha contém uma seqüência de obrigações adiadas. A ordem de retirada garante que as estruturas mais internas serão processadas antes das mais externas.
 
+![Pilha implementada com lista linear](pilha.png)
+
+
 ## Aplicações 
 
 Aplicações em estruturas aninhadas:
@@ -33,12 +36,18 @@ lista de coisas a fazer posteriormente.
 
 ## Pilha como TAD (Tipo Abstrato de Dados) 
 
-   + isEmpty(Stack)
    + push (element, Stack)
    + pop (Stack) 
-   + top (Stack)
+   + isEmpty(Stack) /* returns whether the stack is empty */
+   + top (Stack) /* observes the topmost element without removing it from the stack */
    + size (Stack)
 
 ![Pilha](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png)
 
+## Exemplo
 
+Uso de pilhas para avaliação de expressões aritméticas.
+
+infix: 5 * (((9 + 8) * (4 * 6)) + 7)
+
+postfix: 5 9 8 + 4 6 * * 7 + *
