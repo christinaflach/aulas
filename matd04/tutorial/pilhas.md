@@ -39,3 +39,6 @@ lista de coisas a fazer posteriormente.
    + top (Stack)
    + size (Stack)
 
+![Pilha](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png)
+
+
