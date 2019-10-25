@@ -20,12 +20,13 @@ Ordenação externa.
 
 # Plano de aulas
 
-- 23 e 25/10: Listas, Pilhas e Filas
+- 23 e 25/10: Listas, Pilhas e Filas. 
+   + [Lista 02](exercicios/lista02.md) e [Lista 03](exercicios/lista03.md)
 
 - 04/10 a 19/10: Licença médica da professora. Trabalhar em [Exercícios](exercicios/listas01.md)
 
 - 25/9 e 27/9: Aula prática
-   + [Exercícios](exercicios/listas01.md). **Entrega até 18/10**.
+   + [Exercícios](exercicios/lista01.md). **Entrega até 18/10**.
 
 - 18/9 e 20/9: Listas
    + Leitura de [estruturas de dados fundamentais](tutorial/estruturasfundamentais.md) e links indicados.
