@@ -65,7 +65,7 @@ Algoritmos-Lógica para Desenvolvimento de Programação. Editora Erica.
 + [Seleção](tutorial/selecao.md)
 + [Repetição](tutorial/repeticao.md), Aula Prática
 
-(Prova 01: 31/10)
+(Prova 01: 05/11) - revisado
 
 + Vetores
 + Strings
@@ -74,7 +74,7 @@ Algoritmos-Lógica para Desenvolvimento de Programação. Editora Erica.
 + Busca Binária
 + Recursão
 
-(Prova 02: 28/11)
+(Prova 02: 5/12) - revisado
 
 ## Exercícios
 
@@ -82,7 +82,7 @@ Algoritmos-Lógica para Desenvolvimento de Programação. Editora Erica.
 
 ## Avaliações
 
-+ Três provas (pesos 2, 2 e 3, respectivamente)
++ Duas provas (pesos 3 e 4, respectivamente) - revisado
 + Listas de exercícios individuais (peso 3)
 
 ## Links
