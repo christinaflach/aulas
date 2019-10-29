@@ -1,0 +1,10 @@
+libdir=/Users/christina/Code/simplemath/simple/lib
+includedir=/Users/christina/Code/simplemath/simple/include
+
+Name: gmock_main
+Description: GoogleMock (with main() function)
+Version: 1.9.0
+URL: https://github.com/google/googletest
+Requires: gmock
+Libs: -L${libdir} -lgmock_main 
+Cflags: -I${includedir} -DGTEST_HAS_PTHREAD=1 

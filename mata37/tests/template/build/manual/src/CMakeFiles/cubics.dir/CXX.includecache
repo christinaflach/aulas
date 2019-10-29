@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../include/cubic.h
+
+/Users/christina/Code/simplemath/simple/src/main.cpp
+iostream
+-
+cubic.h
+/Users/christina/Code/simplemath/simple/src/cubic.h
+
