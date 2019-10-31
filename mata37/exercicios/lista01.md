@@ -60,12 +60,13 @@ determinar a maior e a menor nota obtidas por essa turma (Nota máxima = 100 e n
       - Entrada. 10 45 100 22 33 14 30 12 1 5 67 
       - Saída. 178
 
-### 8.  Dado um inteiro não-negativo n, determinar n! 
+### 8.  Dado um inteiro não-negativo n, determinar n! (Ver URI Online Judge | 1153)
 
-   + Entrada.
-   + Saída.
+   + Entrada. Inteiro não-negativo n.
+   + Saída. n!
    + Exemplo.
       - Entrada: 6  / Saída: 720
+      - Entrada: 4  / Saída: 24
       - Entrada: 0  / Saída: 1
 
 ### 9.  Dados n e dois números inteiros positivos i e j diferentes de 0, imprimir em ordem crescente os n primeiros naturais que são múltiplos de i ou de j e ou de ambos.
@@ -83,26 +84,23 @@ Dado um inteiro não-negativo n, verificar se n é triangular.
    + Saída.
    + Exemplo. Entrada: 120  Saída: "120 é triangular".
 
-### 11.  Dado um inteiro positivo n, verificar se n é primo. 
+### 11.  Dado um inteiro positivo n, verificar se n é primo. (Ver URI Online Judge | 1165)
 
 ### 12.  Dados dois números inteiros positivos, determinar o máximo divisor comum entre eles usando o algoritmo de Euclides.
 
-### 13.  Dizemos que um inteiro positivo n é perfeito se for igual à soma de seus divisores positivos diferentes de n. Dado um inteiro positivo n, verificar se n é perfeito. 
+### 13.  Dizemos que um inteiro positivo n é perfeito se for igual à soma de seus divisores positivos diferentes de n. Dado um inteiro positivo n, verificar se n é perfeito. (Ver URI Online Judge | 1164)
 
    + Exemplo. 6 é perfeito, pois 1+2+3 = 6.
 
 
-### 14.  Um matemático italiano da idade média conseguiu modelar o ritmo de crescimento da população de coelhos (1) através de uma seqüência de números naturais que passou a ser conhecida como seqüência de Fibonacci (2). 
+### 14.  Um matemático italiano da idade média conseguiu modelar o ritmo de crescimento da população de coelhos (1) através de uma seqüência de números naturais que passou a ser conhecida como seqüência de Fibonacci (2). Faça um programa que, dado n, calcula Fn. (Ver URI Online Judge | 1151, com uma variação que mostra a série).
 
 O n-ésimo número da seqüência de Fibonacci Fn é dado pela seguinte fórmula de recorrência:
 
-F1 = 1
+F1 = 1, F2 = 1 e  Fi = Fi-1 + Fi-2, para i >= 3.
 
-F2 = 1
-
-Fi = Fi-1 + Fi-2, para i >= 3.
-
-Faça um programa que, dado n, calcula Fn. 
+   + Entrada. Um valor inteiro n (0 < n < 30).
+   + Saída. O n-ésimo número da seqüência de Fibonacci.
 
 ### 15.  Dizemos que um número i é congruente módulo m a j se i % m = j % m. Dados inteiros positivos n, j e m, imprimir os n primeiros naturais congruentes a j módulo m.
 
