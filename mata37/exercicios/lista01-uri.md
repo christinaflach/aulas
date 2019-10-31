@@ -6,64 +6,73 @@
    + Entrada. Sequência de números inteiros não-nulos, seguida por 0.
    + Saída. Sequência dos quadrados dos números, seguida por final de linha.
    + Exemplo.
-      - Entrada:  2 5 4 10 0  Saída: 4 25 16 100
-      - Entrada:  7 0  Saída: 49 
-      - Entrada:  0  Saída: 
+      - Entrada:  2 5 4 10 0  / Saída: 4 25 16 100
+      - Entrada:  7 0  / Saída: 49 
+      - Entrada:  0  / Saída: 
 
 2.  Dado um número inteiro positivo n, calcular a soma dos n primeiros números inteiros positivos. 
 
    + Entrada. Um número inteiro positivo n.
    + Saída. Valor da soma dos  n primeiros números inteiros positivos.
    + Exemplo.
-      - Entrada: 3,  Saída: 6
-      - Entrada: 5,  Saída: 15
+      - Entrada: 3 /  Saída: 6
+      - Entrada: 5 /  Saída: 15
 
 3.  Dado um número inteiro positivo n, imprimir os n primeiros números naturais ímpares.
 
    + Entrada. Um número inteiro positivo n.
    + Saída. Sequência dos n primeiros números naturais ímpares.
    + Exemplo.
-      - Entrada: 4,  Saída: 1 3 5 7
-
----
+      - Entrada: 4 /  Saída: 1 3 5 7
 
 4.  Dados um inteiro x e um inteiro não-negativo n, calcular x _elevado a_ n. 
 
-   + Entrada.
-   + Saída.
+   + Entrada. Um inteiro x e um inteiro não-negativo n
+   + Saída. Valor de x _elevado a_ n. 
    + Exemplo.
-
+      - Entrada: 3 2 /  Saída: 9
+      - Entrada: 2 3 /  Saída: 8
 
 5.  Uma loja de discos anota diariamente, a cada semana, a quantidade de discos vendidos. Determinar em que dia da semana ocorreu a maior venda e qual foi a quantidade de discos vendida nesse dia. 
 
-   + Entrada.
-   + Saída.
+   + Entrada. Uma lista com 7 valores de discos vendidos, um valor para cada dia da semana, começando pela segunda-feira.
+   + Saída. "Maior venda da semana: " seguido pelo dia da semana,  ", ", quantidade de discos vendida, " disco(s)". Não esquecer do final de linha.
    + Exemplo.
+      - Entrada: 30 24 10 32 67 55 40
+      - Saída: Maior venda da semana: sexta-feira, 67 disco(s)
 
-6.  Dados o número n de alunos de uma turma 
-e suas notas da primeira prova, 
+6.  Dados o número n de alunos de uma turma e suas notas da primeira prova, 
 determinar a maior e a menor nota obtidas por essa turma (Nota máxima = 100 e nota mínima = 0). 
 
-   + Entrada.
-   + Saída.
+   + Entrada. O número n de alunos de uma turma e suas notas da primeira prova. 
+   + Saída.  A maior e a menor nota obtidas por essa turma.
    + Exemplo.
+      - Entrada: 5 50 70 80 40 95
+      - Saída: 
+         Maior nota: 95 
+         Menor nota: 40
+               
 
 7.  Dados n e uma seqüência de n números inteiros, determinar a soma dos números pares. 
 
-   + Entrada.
-   + Saída.
+   + Entrada. Um valor inteiro n e uma seqüência de n números inteiros
+   + Saída. Soma dos números pares encontrados na sequência de inteiros
    + Exemplo.
+      - Entrada. 10 45 100 22 33 14 30 12 1 5 67 
+      - Saída. 178
 
 8.  Dado um inteiro não-negativo n, determinar n! 
 
    + Entrada.
    + Saída.
    + Exemplo.
+      - Entrada: 6  / Saída: 720
+      - Entrada: 0  / Saída: 1
 
 9.  Dados n e dois números inteiros positivos i e j diferentes de 0, imprimir em ordem crescente os n primeiros naturais que são múltiplos de i ou de j e ou de ambos.
 
-   + Entrada.
-   + Saída.
+   + Entrada.  Valor inteiro n e dois números inteiros positivos i e j diferentes de 0
+   + Saída. Os n primeiros naturais que são múltiplos de i ou de j e ou de ambos, em ordem crescente.
    + Exemplo. Para n = 6 , i = 2 e j = 3 a saída deverá ser : 0 2 3 4 6 8. 
 
 
