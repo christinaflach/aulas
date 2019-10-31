@@ -1,51 +1,96 @@
 # Exercícios com Inteiros
 
-
 ### 1.  Dada uma seqüência de números inteiros não-nulos, seguida por 0, imprimir seus quadrados. 
 
-Exemplo: Para a entrada 2 5 7 3 0, a saída deverá ser: 4 25 49 9
-
+   + Entrada. Sequência de números inteiros não-nulos, seguida por 0.
+   + Saída. Sequência dos quadrados dos números, seguida por final de linha.
+   + Exemplo.
+      - Entrada:  2 5 4 10 0  / Saída: 4 25 16 100
+      - Entrada:  7 0  / Saída: 49 
+      - Entrada:  0  / Saída: 
 
 ### 2.  Dado um número inteiro positivo n, calcular a soma dos n primeiros números inteiros positivos. 
 
-Exemplo: Para a entrada 5, a saída deverá ser 15
+   + Entrada. Um número inteiro positivo n.
+   + Saída. Valor da soma dos  n primeiros números inteiros positivos.
+   + Exemplo.
+      - Entrada: 3 /  Saída: 6
+      - Entrada: 5 /  Saída: 15
 
+### 3.  Dado um número inteiro positivo n, imprimir os n primeiros números naturais ímpares.
 
-### 3.  Dado um número inteiro positivo n, imprimir os n primeiros naturais ímpares.
-
-Exemplo: Para n=4, a saída deverá ser 1 3 5 7
-
+   + Entrada. Um número inteiro positivo n.
+   + Saída. Sequência dos n primeiros números naturais ímpares.
+   + Exemplo.
+      - Entrada: 4 /  Saída: 1 3 5 7
 
 ### 4.  Dados um inteiro x e um inteiro não-negativo n, calcular x _elevado a_ n. 
 
+   + Entrada. Um inteiro x e um inteiro não-negativo n
+   + Saída. Valor de x _elevado a_ n. 
+   + Exemplo.
+      - Entrada: 3 2 /  Saída: 9
+      - Entrada: 2 3 /  Saída: 8
 
 ### 5.  Uma loja de discos anota diariamente, a cada semana, a quantidade de discos vendidos. Determinar em que dia da semana ocorreu a maior venda e qual foi a quantidade de discos vendida nesse dia. 
 
+   + Entrada. Uma lista com 7 valores de discos vendidos, um valor para cada dia da semana, começando pela segunda-feira.
+   + Saída. "Maior venda da semana: " seguido pelo dia da semana,  ", ", quantidade de discos vendida, " disco(s)". Não esquecer do final de linha.
+   + Exemplo.
+      - Entrada: 30 24 10 32 67 55 40
+      - Saída: Maior venda da semana: sexta-feira, 67 disco(s)
 
-### 6.  Dados o número n de alunos de uma turma e suas notas da primeira prova, determinar a maior e a menor nota obtidas por essa turma (Nota máxima = 100 e nota mínima = 0). 
+### 6.  Dados o número n de alunos de uma turma e suas notas da primeira prova, 
+determinar a maior e a menor nota obtidas por essa turma (Nota máxima = 100 e nota mínima = 0). 
+
+   + Entrada. O número n de alunos de uma turma e suas notas da primeira prova. 
+   + Saída.  A maior e a menor nota obtidas por essa turma.
+   + Exemplo.
+      - Entrada: 5 50 70 80 40 95
+      - Saída: 
+         Maior nota: 95 
+         Menor nota: 40
+               
 
 ### 7.  Dados n e uma seqüência de n números inteiros, determinar a soma dos números pares. 
 
+   + Entrada. Um valor inteiro n e uma seqüência de n números inteiros
+   + Saída. Soma dos números pares encontrados na sequência de inteiros
+   + Exemplo.
+      - Entrada. 10 45 100 22 33 14 30 12 1 5 67 
+      - Saída. 178
+
 ### 8.  Dado um inteiro não-negativo n, determinar n! 
+
+   + Entrada.
+   + Saída.
+   + Exemplo.
+      - Entrada: 6  / Saída: 720
+      - Entrada: 0  / Saída: 1
 
 ### 9.  Dados n e dois números inteiros positivos i e j diferentes de 0, imprimir em ordem crescente os n primeiros naturais que são múltiplos de i ou de j e ou de ambos.
 
-Exemplo: Para n = 6 , i = 2 e j = 3 a saída deverá ser: 0 2 3 4 6 8 
+   + Entrada.  Valor inteiro n e dois números inteiros positivos i e j diferentes de 0
+   + Saída. Os n primeiros naturais que são múltiplos de i ou de j e ou de ambos, em ordem crescente.
+   + Exemplo. Para n = 6 , i = 2 e j = 3 a saída deverá ser : 0 2 3 4 6 8. 
 
-### 10.  Dizemos que um número natural é triangular se ele é produto de três números naturais consecutivos.
 
-Exemplo: 120 é triangular, pois 4.5.6 = 120.
+### 10.  Dizemos que um número natural é triangular se ele é produto de três números naturais consecutivos. 
+Por exemplo, 120 é triangular, pois 4.5.6 = 120.
 Dado um inteiro não-negativo n, verificar se n é triangular. 
+
+   + Entrada.
+   + Saída.
+   + Exemplo. Entrada: 120  Saída: "120 é triangular".
 
 ### 11.  Dado um inteiro positivo n, verificar se n é primo. 
 
 ### 12.  Dados dois números inteiros positivos, determinar o máximo divisor comum entre eles usando o algoritmo de Euclides.
 
-### 13.  Dizemos que um inteiro positivo n é perfeito se for igual à soma de seus divisores positivos diferentes de n.
+### 13.  Dizemos que um inteiro positivo n é perfeito se for igual à soma de seus divisores positivos diferentes de n. Dado um inteiro positivo n, verificar se n é perfeito. 
 
-Exemplo: 6 é perfeito, pois 1+2+3 = 6.
+   + Exemplo. 6 é perfeito, pois 1+2+3 = 6.
 
-Dado um inteiro positivo n, verificar se n é perfeito. 
 
 ### 14.  Um matemático italiano da idade média conseguiu modelar o ritmo de crescimento da população de coelhos (1) através de uma seqüência de números naturais que passou a ser conhecida como seqüência de Fibonacci (2). 
 
@@ -57,29 +102,30 @@ F2 = 1
 
 Fi = Fi-1 + Fi-2, para i >= 3.
 
-
 Faça um programa que, dado n, calcula Fn. 
 
-### 15.  Dizemos que um número i é congruente módulo m a j se i % m = j % m. 
+### 15.  Dizemos que um número i é congruente módulo m a j se i % m = j % m. Dados inteiros positivos n, j e m, imprimir os n primeiros naturais congruentes a j módulo m.
 
-Exemplo: 35 é congruente módulo 4 a 39, pois
-35 % 4 = 3 = 39 % 4.
-
-Dados inteiros positivos n, j e m, imprimir os n primeiros naturais congruentes a j módulo m.
+   + Exemplo. 35 é congruente módulo 4 a 39, pois 35 % 4 = 3 = 39 % 4.
 
 ### 16.  Dado um número natural na base binária, transformá-lo para a base decimal.
 
-Exemplo:
-Dado 10010 a saída será 18.
+   + Exemplo.
+      - Entrada. 10010 
+      - Saída. 18
 
 ### 17.  Dado um número natural na base decimal, transformá-lo para a base binária.
 
-Exemplo: Dado 18 a saída deverá ser 10010. 
+   + Exemplo.
+      - Entrada. 18
+      - Saída. 10010
 
 ### 18.  Dados três números naturais, verificar se eles formam os lados de um triângulo retângulo. 
 
-### 19.  Dados três números, imprimi-los em ordem crescente. 
+   + Entrada. Três números naturais a, b e c.
+   + Saída. "O triângulo com lados ... é retângulo" ou "O triângulo com lados ... não é retângulo".
 
+### 19.  Dados três números, imprimi-los em ordem crescente. 
 
 ### 20. Qualquer número natural de quatro algarismos pode ser dividido em duas dezenas formadas pelos seus dois primeiros e dois últimos dígitos.
 
