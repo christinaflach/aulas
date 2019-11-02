@@ -1,23 +1,5 @@
-[![Build Status](https://travis-ci.org/kigster/cmake-project-template.svg?branch=master)](https://travis-ci.org/kigster/cmake-project-template)
 
-# CMake C++ Project Template
-
-### Division with a remainder library
-
-Thank you for your interest in this project!
-
-Are you just starting with `CMake` or C++?
-
-Do you need some easy-to-use starting point, but one that has the basic moving parts you are likely going to need on any medium sized project?
-
-Do you believe in test-driven development, or at the very lest — write your tests *together* with the feature code? If so you'd want to start your project pre-integrated with a good testing framework.
-
-Divider is a minimal project that's kept deliberately very small. When you build it using CMake/make (see below) it generates:
-
- 1. A tiny **static library** `lib/libdivision.a`,
- 2. **A command line binary `bin/divider`**, which links with the library,
- 3. **An executable unit test** `bin/divider_tests`  using [Google Test library](https://github.com/google/googletest).
- 4. **An optional BASH build script** `./run.sh` that is also used by the Travis CI.
+# CMake C++ Project Template for Testing your Program
 
 
 ## Usage
@@ -28,7 +10,6 @@ You will need:
 
  * A modern C/C++ compiler
  * CMake 3.1+ installed (on a Mac, run `brew install cmake`)
- * If you prefer to code in a great IDE, I highly recommend [Jetbrains CLion](https://www.jetbrains.com/clion/). It is fully compatible with this project.
 
 ### Building The Project
 
