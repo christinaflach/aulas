@@ -20,6 +20,10 @@ Ordenação externa.
 
 # Plano de aulas
 
+- 06/11 e 8/11
+
+- 30/10 e 01/11: Congresso UFBA / Aula Prática.
+
 - 23 e 25/10: Listas, Pilhas e Filas. 
    + [Lista 02](exercicios/lista02.md) e [Lista 03](exercicios/lista03.md)
 
@@ -61,7 +65,7 @@ Ordenação externa.
    - [Listas lineares](tutorial/listas.md)
    - [Pilhas](tutorial/pilhas.md)
    - [Filas](tutorial/filas.md)
-   - Árvores
+   - [Árvores](tutorial/arvores.md)
    - Heaps.
 
 4. Algoritmos de busca em memória principal
