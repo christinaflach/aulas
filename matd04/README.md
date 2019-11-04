@@ -20,6 +20,10 @@ Ordenação externa.
 
 # Plano de aulas
 
+- 06/11 e 8/11
+
+- 30/10 e 01/11: Congresso UFBA / Aula Prática.
+
 - 23 e 25/10: Listas, Pilhas e Filas. 
    + [Lista 02](exercicios/lista02.md) e [Lista 03](exercicios/lista03.md)
 
@@ -61,7 +65,7 @@ Ordenação externa.
    - [Listas lineares](tutorial/listas.md)
    - [Pilhas](tutorial/pilhas.md)
    - [Filas](tutorial/filas.md)
-   - Árvores
+   - [Árvores](tutorial/arvores.md)
    - Heaps.
 
 4. Algoritmos de busca em memória principal
@@ -96,6 +100,7 @@ Ordenação externa.
 ### Sobre C 
 - [Apostila da USP: Introdução à Ciência da Computação em C](https://www.ime.usp.br/~hitoshi/introducao/)
 - [Material de ILP do Prof. Rodrigo Rocha](https://rodrigorgs.github.io/aulas/mata37/), incluindo [ordenação](https://rodrigorgs.github.io/aulas/mata37/ordenacao).
+- [Data Structures & Algorithm Analysis by Clifford A. Shaffer.](http://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf)
    
 ### Sobre markdown
 
@@ -110,6 +115,7 @@ Ordenação externa.
 
 ### Sobre Estruturas de Dados e Algoritmos
 
++ [Estrutura de Dados — Prof. João Brunet/UFCG (Java)](https://medium.com/@joaoarthurbm/estrutura-de-dados-computação-ufcg-4391ae983993)
 + [binary search anime](https://pt.khanacademy.org/computer-programming/binary-search-with-selectable-search-key-hit-backspace-and-type/4590599206076416/embedded?embedded?embed=yes&editor=no&width=720)
 
 ### Sobre Testes Automatizados
@@ -121,6 +127,7 @@ Ordenação externa.
 
 - (1) Ziviani, N. Projeto de Algoritmos com implementações em Pascal e C. Ed. Thomson, 2 ed. rev e ampl. 2005.
 - (2) Sedgewick, R. Algorithms. Ed. Addison-Wesley, 2 ed. 1988. [Ver outras edições](https://algs4.cs.princeton.edu/home/).
+- (3) D.E. Knuth, The Art of Computer Programming, vol. 1 (Fundamental Algorithms) e vol. 3 (Sorting and Searching), Addison-Wesley, 1973.
 
 
 
