@@ -10,14 +10,14 @@ Uma _árvore_ é uma coleção não-vazia de _vértices_ e _arestas_ que satisfa
 
 
 
-![Exemplo 1.](tutorial/arvore-s1.png)
+![Exemplo 1.](arvore-s1.png)
 
 ## Árvores Binárias 
 
 Uma _árvore binária_ é uma árvore ordenada que contém dois tipos de nós: _nós externos_, sem filhos, e _nós internos_, com exatamente dois filhos.
 
 
-![Exemplo 2.](tutorial/arvore-s2.png)
+![Exemplo 2.](arvore-s2.png)
 
 
 ## Algumas Propriedades
