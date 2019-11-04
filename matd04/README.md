@@ -96,6 +96,7 @@ Ordenação externa.
 ### Sobre C 
 - [Apostila da USP: Introdução à Ciência da Computação em C](https://www.ime.usp.br/~hitoshi/introducao/)
 - [Material de ILP do Prof. Rodrigo Rocha](https://rodrigorgs.github.io/aulas/mata37/), incluindo [ordenação](https://rodrigorgs.github.io/aulas/mata37/ordenacao).
+- [Data Structures & Algorithm Analysis by Clifford A. Shaffer.](http://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf)
    
 ### Sobre markdown
 
@@ -121,6 +122,7 @@ Ordenação externa.
 
 - (1) Ziviani, N. Projeto de Algoritmos com implementações em Pascal e C. Ed. Thomson, 2 ed. rev e ampl. 2005.
 - (2) Sedgewick, R. Algorithms. Ed. Addison-Wesley, 2 ed. 1988. [Ver outras edições](https://algs4.cs.princeton.edu/home/).
+- (3) D.E. Knuth, The Art of Computer Programming, vol. 1 (Fundamental Algorithms) e vol. 3 (Sorting and Searching), Addison-Wesley, 1973.
 
 
 
