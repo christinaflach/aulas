@@ -18,9 +18,62 @@ Arquivos com organização direta (funções de hashing, métodos de resolução
 Arquivos com organização em árvore (árvores-B e suas variações). 
 Ordenação externa.
 
+# Tópicos
+
+## Preâmbulo
+
++ Revisão de C / C++ (ver Links)
+
+## Parte 1 
+
+1. [Introdução à análise de algoritmos](tutorial/analisedealgoritmos.md) 
+
+2. [Tipos abstratos de dados](tutorial/tiposabstratosdedados.md) 
+
+3. [Estruturas de dados fundamentais](tutorial/estruturasfundamentais.md)
+   - [Listas lineares](tutorial/listas.md)
+   - [Pilhas](tutorial/pilhas.md)
+   - [Filas](tutorial/filas.md)
+   - [Árvores](tutorial/arvores.md)
+
+4. Pesquisa em memória primária
+   - [Pesquisa sequencial](tutorial/buscasequencial.md)
+   - Pesquisa binária
+   - Pesquisa em árvore binária.
+
+## Parte 2 
+
+5. Arquivos com organização sequencial 
+   - Pesquisa sequencial
+   - Pesquisa por interpolação
+   - Pesquisa binária. 
+
+6. Arquivos com organização direta 
+   - Funções de hashing
+   - Métodos de resolução de colisão.
+ 
+7. Arquivos com organização em árvore 
+   - Árvores-B e suas variações. 
+
+8. Ordenação externa.
+
+# Avaliações
+
++ Duas provas (peso 6) 
++ Trabalho (peso 2)
++ Exercícios (peso 2)
+
+# Referências Bibliográficas
+
+- (1) Ziviani, N. Projeto de Algoritmos com implementações em Pascal e C. Ed. Thomson, 2 ed. rev e ampl. 2005.
+- (2) Sedgewick, R. Algorithms. Ed. Addison-Wesley, 2 ed. 1988. [Ver outras edições](https://algs4.cs.princeton.edu/home/).
+- (3) D.E. Knuth, The Art of Computer Programming, vol. 1 (Fundamental Algorithms) e vol. 3 (Sorting and Searching), Addison-Wesley, 1973.
+
+---
+
 # Plano de aulas
 
-- 06/11 e 8/11
+- 06/11 e 8/11: Árvores Binárias
 
 - 30/10 e 01/11: Congresso UFBA / Aula Prática.
 
@@ -49,51 +102,22 @@ Ordenação externa.
 - 04/9: Primeira aula. Apresentação da disciplina.
    + *Leitura recomendada*: capítulo 1 da referência (1).
 
-# Tópicos
 
-## Preâmbulo
+# Exercícios
 
-+ Revisão de C / C++ (ver Links)
++ [Lista 01](exercicios/lista01.md). **Entrega até 18/10**.
++ [Lista 02](exercicios/lista02.md) 
++ [Lista 03](exercicios/lista03.md)
 
-## Parte 1 
+# Trabalho 
 
-1. [Introdução à análise de algoritmos](tutorial/analisedealgoritmos.md) 
+Apresentação de seminários e exercícios sobre:
 
-2. [Tipos abstratos de dados](tutorial/tiposabstratosdedados.md) 
+- Funções de hashing e métodos de resolução de colisão
+- Árvores-B e suas variações
+- Ordenação externa.
 
-3. [Estruturas de dados fundamentais](tutorial/estruturasfundamentais.md)
-   - [Listas lineares](tutorial/listas.md)
-   - [Pilhas](tutorial/pilhas.md)
-   - [Filas](tutorial/filas.md)
-   - [Árvores](tutorial/arvores.md)
-   - Heaps.
-
-4. Algoritmos de busca em memória principal
-   - [Busca sequencial](tutorial/buscasequencial.md)
-   - Busca binária
-   - Busca em árvore binária.
-
-## Parte 2 
-
-5. Arquivos com organização sequencial 
-   - Busca sequencial
-   - Busca por interpolação
-   - Busca binária. 
-
-6. Arquivos com organização direta 
-   - Funções de hashing
-   - Métodos de resolução de colisão.
- 
-7. Arquivos com organização em árvore 
-   - Árvores-B e suas variações. 
-
-8. Ordenação externa.
-
-# Avaliações
-
-+ Duas provas (peso 6) 
-+ Trabalho (peso 2)
-+ Exercícios (peso 2)
+--- 
 
 # Links
 
@@ -123,13 +147,3 @@ Ordenação externa.
 + [Google Test](https://github.com/google/googletest)
 + [Why Google C++ Testing Framework?](https://chromium.googlesource.com/external/github.com/google/googletest/+/refs/tags/release-1.8.0/googletest/docs/Primer.md)
    
-# Referências Bibliográficas
-
-- (1) Ziviani, N. Projeto de Algoritmos com implementações em Pascal e C. Ed. Thomson, 2 ed. rev e ampl. 2005.
-- (2) Sedgewick, R. Algorithms. Ed. Addison-Wesley, 2 ed. 1988. [Ver outras edições](https://algs4.cs.princeton.edu/home/).
-- (3) D.E. Knuth, The Art of Computer Programming, vol. 1 (Fundamental Algorithms) e vol. 3 (Sorting and Searching), Addison-Wesley, 1973.
-
-
-
-
-
