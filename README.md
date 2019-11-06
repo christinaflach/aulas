@@ -4,7 +4,7 @@ Prof. [Christina von Flach Garcia Chavez](http://wiki.dcc.ufba.br/DCC/ProfChrist
 (flach at ufba dot br)
 
 # Turmas
-- [MATA37 T04 2019.2](mata37)
+- [MATA37 T04 2019.2](https://github.com/christinaflach/mata37-20192)
 - [MATD04 T01 2019.2](matd04)
 
 # Links
