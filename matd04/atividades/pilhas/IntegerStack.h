@@ -1,2 +1,0 @@
-// IntegerStack.h
-
