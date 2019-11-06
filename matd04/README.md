@@ -139,7 +139,7 @@ Apresentação de seminários e exercícios sobre:
 
 ### Sobre Estruturas de Dados e Algoritmos
 
-+ [Estrutura de Dados — Prof. João Brunet/UFCG (Java)](https://medium.com/@joaoarthurbm/estrutura-de-dados-computação-ufcg-4391ae983993)
++ [Estrutura de Dados — Prof. João Brunet/UFCG (Java)](https://joaoarthurbm.github.io/eda/)
 + [binary search anime](https://pt.khanacademy.org/computer-programming/binary-search-with-selectable-search-key-hit-backspace-and-type/4590599206076416/embedded?embedded?embed=yes&editor=no&width=720)
 
 ### Sobre Testes Automatizados
